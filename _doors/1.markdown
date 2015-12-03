@@ -1,6 +1,7 @@
 ---
 day: 	1
 title:	Die Challenge beginnt!
+active: true
 ---
 
 

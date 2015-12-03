@@ -4,6 +4,7 @@ layout: default
 
 <div class="row">
     {% for door in site.doors %}
+	{% if door.active %}
       <div class="col-sm-4 portfolio-item">
           <a href="#contributions-day-{{ door.day }}" data-toggle="modal" class="portfolio-link">
           	<div class="caption">
@@ -16,5 +17,14 @@ layout: default
           	</div>
           </a>
       </div>
+	{% else %}
+		<div class="col-sm-4 portfolio-item">
+			<div class="portfolio-link" >
+				<div class="calendaritem inactivday">
+					<h1>{{ door.day }}</h1>
+				</div>
+			</div>
+		</div>
+	{% endif %}
     {% endfor %}
 </div>

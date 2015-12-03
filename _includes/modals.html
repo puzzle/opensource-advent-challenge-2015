@@ -1,4 +1,5 @@
 {% for door in site.doors %}
+{% if door.active == 'true' %}
 <div class="portfolio-modal modal fade" id="contributions-day-{{door.day}}" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content">
         <div class="close-modal" data-dismiss="modal">
@@ -12,7 +13,7 @@
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
                         <h2>Tag {{door.day}}</h2>
-                        <h3>{{door.title}}</h2>
+                        <h3>{{door.title}}</h3>
                         <hr class="star-primary">
                         {{ door.content }}
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
@@ -22,4 +23,5 @@
         </div>
     </div>
 </div>
+{% endif %}
 {% endfor %}

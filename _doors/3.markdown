@@ -1,6 +1,7 @@
 ---
 day: 	3
 title:	Going steady!
+active: true
 ---
 
 <h3><a href="https://www.puzzle.ch/de/blog/articles/author/psimon">Pascal Simon</a>:</h3>

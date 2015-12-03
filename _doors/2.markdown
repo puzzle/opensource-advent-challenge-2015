@@ -1,6 +1,7 @@
 ---
 day: 	2
 title:	Weiter gehts!
+active: true
 ---
 
 <h3><a href="https://www.puzzle.ch/de/blog/articles/author/dbinggeli">Daniel Binggeli</a>:</h3>
