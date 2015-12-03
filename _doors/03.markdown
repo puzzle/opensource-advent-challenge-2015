@@ -11,3 +11,6 @@ active: true
 
 ### [Daniel Tschan](https://github.com/dtschan)
 Ich warte den OpenShift Support der webbasierten Übersetzungsplatform [Weblate](https://weblate.org/). Heute bin ich von [Philipp Grogg](https://github.com/gro-gg) darauf aufmerksam gemacht worden, dass sich die aktuelle Version von Weblate nicht mehr auf OpenShift installieren lässt. Ich habe entsprechend einen Pull Request implementiert der das Problem behebt: <https://github.com/nijel/weblate/pull/944>. In der Folge dann noch ein fast vergessenes Issue kommentiert: <https://github.com/nijel/weblate/issues/920>.
+
+### [Lorenz Bischof](https://github.com/lbischof)
+Damit Puzzle Forms einfach für interessierte zugänglich ist, habe ich ein Dockerfile erstellt. Das Frontend funktioniert noch nicht, da wegen der Restrukturierung Fehler entstanden sind. <https://github.com/lbischof/puzzle-forms/commit/859c452187c1b918de1bb900533155eaaef2c926>
