@@ -8,3 +8,6 @@ active: true
 <p>diverse Issue für Cryptopus erfasst. Zusätzlicher Commit.&nbsp;<a href="https://github.com/puzzle/cryptopus">https://github.com/puzzle/cryptopus</a></p>
 <h3><a href="https://www.puzzle.ch/de/blog/articles/author/tphilipona">Thomas Philipona</a>:</h3>
 <p>Die neue Open Source Advents Challenge Diary Seite wurde erstellt und unter: <a href="https://github.com/puzzle/opensource-advent-challenge-2015">https://github.com/puzzle/opensource-advent-challenge-2015</a> veröffentlicht. Neu werden unsere Contributions direkt hier dokumentiert. </p>
+
+### [Daniel Tschan](https://github.com/dtschan)
+Ich warte den OpenShift Support der webbasierten Übersetzungsplatform [Weblate](https://weblate.org/). Heute bin ich von [Philipp Grogg](https://github.com/gro-gg) darauf aufmerksam gemacht worden, dass sich die aktuelle Version von Weblate nicht mehr auf OpenShift installieren lässt. Ich habe entsprechend einen Pull Request implementiert der das Problem behebt: https://github.com/nijel/weblate/pull/944. In der Folge dann noch ein fast vergessenes Issue kommentiert: https://github.com/nijel/weblate/issues/920
