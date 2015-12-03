@@ -2,10 +2,19 @@
 layout: default
 ---
 
-<div class="door-list">
+<div class="row">
     {% for door in site.doors %}
-      <div class="door-list-item">
-          <a href="#contributions-day-{{ door.day }}" data-toggle="modal"><span class="door-list-item-text">Tag {{ door.day }}</span></a>
+      <div class="col-sm-4 portfolio-item">
+          <a href="#contributions-day-{{ door.day }}" data-toggle="modal" class="portfolio-link">
+          	<div class="caption">
+          	    <div class="caption-content">
+          	        <i class="fa fa-calendar-o fa-3x"></i>
+          	    </div>
+          	</div>
+          	<div class="calendaritem">
+          	    <h1>{{ door.day }}</h1>
+          	</div>
+          </a>
       </div>
     {% endfor %}
 </div>
