@@ -33,3 +33,11 @@ active: true
 <h3><a href="https://www.puzzle.ch/de/blog/articles/author/tphilipona">Thomas Philipona</a>:</h3>
 <p>“Hier meine erste Contribution für heute:&nbsp;<a href="https://github.com/phil-pona/hexboard">https://github.com/phil-pona/hexboard</a>&nbsp;ich habe heute für die OpenShift V3 hexboard Demo Applikation so angepasst,&nbsp;dass sie mit dem API für die Version 3.1 funktioniert.</p>
 <p>Habe nun auch noch die Flyway CDI Integration von gestern erweitert,&nbsp;dass neu ein CDI Event gefeuert wird, wenn die Datenbankmigration&nbsp;erfolgreich abgeschlossen wurde.&nbsp;Diesen Event kann dazu verwendet werden, bspw. nach der Migration&nbsp;gewisse Validierungen (Hibernate Schema Validierung) auf der Datenbank&nbsp;auszuführen. &nbsp;<a  href="https://github.com/puzzle/flyway-cdi-integration/commit/43cf18082dfa5d6efd2455860f95d6d276d612a4">https://github.com/puzzle/flyway-cdi-integration/commit/43cf18082dfa5d6efd2455860f95d6d276d612a4</a>”</p>
+
+<h3><a href="https://www.puzzle.ch/de/blog/articles/author/mburri">Max Burri</a>:</h3>
+<p>
+Für mein auf redux-pattern-basierendes-breakout-experiment-weiterbildungsprojekt habe ich heute folgendes gemacht: <br/>
+- webpack und webpack-dev-server konfiguriert<br/>
+- redux ins Projekt eingebunden (jetzt doch noch)<br/>
+- den redux store erstellt und ein Proof of Concept gemacht, dass ich die verschiedenen Scenes des Spieles (also den Startscreen, Gamescreen, Pausescreen u.s.w.) über Eingaben des Benutzers im redux store wechseln und dann entsprechend als einfacher Text rendern kann. Das hat wunderbar geklappt.<br/>
+</p>
