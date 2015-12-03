@@ -246,6 +246,13 @@ section.success a.active {
 #contributors .contributors-item .portfolio-link .caption .caption-content h4 {
   margin: 0;
 }
+#contributors .contributors-item .avatar-container {
+  border-radius: 50%;
+  margin: 0;
+  max-width: 100%;
+  overflow: hidden;
+  position: relative;
+}
 #contributors * {
   z-index: 2;
 }
