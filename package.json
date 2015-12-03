@@ -1,0 +1,24 @@
+{
+  "name": "opensource-advent-challenge-2015",
+  "version": "0.0.0",
+  "description": "This is the GitHub Page based on the following Template",
+  "main": "index.js",
+  "dependencies": {
+    "less": "~2.5.3",
+    "node": "~0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "less": "lessc less/freelancer.css css/freelancer.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/puzzle/opensource-advent-challenge-2015.git"
+  },
+  "author": "hupf",
+  "license": "Apache-2",
+  "bugs": {
+    "url": "https://github.com/puzzle/opensource-advent-challenge-2015/issues"
+  }
+}
