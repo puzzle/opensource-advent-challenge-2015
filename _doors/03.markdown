@@ -20,3 +20,7 @@ Beim Entwickeln von meinem Puppet-Modul für [Let's Encrypt, das übrigens heute
 
 ### [Philipp Grogg](https://github.com/gro-gg)
 Dokumentation des Java Profilers [modjprof](https://github.com/gro-gg/modjprof) ergänzt.
+
+### [Max Burri](https://github.com/mburri)
+Heute habe ich den gh-pages branch für mein Projekt erstellt, so dass man jetzt die Weiterentwicklung des [Spiels](http://mburri.github.io/break-out/dist/index.html) mitverfolgen kann. Die verschiedenen Scenes werden jetzt in ein Canvas und nicht mehr als blosser Text gerendert. Spielen kann man noch nicht wirklich, ich habe aber die notwendigen Funktionen und den Reducer geschrieben, damit ich das dann morgen hoffentlich implementieren kann.
+Mit den Farben möchte ich übrigens alte EGA-Zeiten aufleben lassen - also brauchts dafür keine pull-requests oder issues!
