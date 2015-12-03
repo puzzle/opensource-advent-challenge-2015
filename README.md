@@ -2,8 +2,8 @@
 
 This is the GitHub Page based on the following Template 
 
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
-
+* [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+* Built with [Jekyll](https://jekyllrb.com/)
 
 ## Copyright and License of the used Template
 
