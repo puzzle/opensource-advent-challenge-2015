@@ -14,3 +14,7 @@ Ich warte den OpenShift Support der webbasierten Übersetzungsplatform [Weblate]
 
 ### [Lorenz Bischof](https://github.com/lbischof)
 Damit Puzzle Forms einfach für interessierte zugänglich ist, habe ich ein Dockerfile erstellt. Das Frontend funktioniert noch nicht, da wegen der Restrukturierung Fehler entstanden sind. <https://github.com/lbischof/puzzle-forms/commit/859c452187c1b918de1bb900533155eaaef2c926>
+
+### [Philipp Gassmann](https://github.com/pgassmann)
+Beim Entwickeln von meinem Puppet-Modul für [Let's Encrypt, das übrigens heute in die Public Beta Phase eintrat] (https://letsencrypt.org/2015/12/03/entering-public-beta.html). Habe ich mich mit der getparam funktion aus dem stdlib modul auseinander gesetzt und deren unerwartetes Verhalten in einem Ticket erfasst. <https://tickets.puppetlabs.com/browse/MODULES-2874>
+
