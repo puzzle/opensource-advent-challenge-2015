@@ -203,6 +203,15 @@ section.success a.active {
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
   margin: 0;
 }
+#portfolio .portfolio-item .calendaritem {
+  width: 100%;
+  font-size: 20px;
+  text-align: center;
+}
+#portfolio .portfolio-item .calendaritem h1 {
+  color: #2c3e50;
+  font-size: 8em;
+}
 #portfolio * {
   z-index: 2;
 }
@@ -245,13 +254,6 @@ section.success a.active {
 #contributors .contributors-item .portfolio-link .caption .caption-content h3,
 #contributors .contributors-item .portfolio-link .caption .caption-content h4 {
   margin: 0;
-}
-#contributors .contributors-item .avatar-container {
-  border-radius: 50%;
-  margin: 0;
-  max-width: 100%;
-  overflow: hidden;
-  position: relative;
 }
 #contributors * {
   z-index: 2;
