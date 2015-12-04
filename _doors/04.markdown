@@ -32,3 +32,11 @@ Cryptopus: JavaScript aufgeräumt, Assets Precompile fixed https://github.com/pu
 
 ### [Janiss Binder](https://github.com/janissbinder)
 Cryptopus: Accounts search fixed, das Löschen eines Teams eingeschränkt https://github.com/puzzle/cryptopus
+
+### [Roland Studer](https://github.com/rolandstuder)
+Publizieren des Open Device Lab Link Sharers auf Github mit einer MIT License.
+
+Link-Sharer / Forwarder for Open Device Labs
+Whenenver you are in a Open Device Lab and you want to test an webapplication or website, you have the problem, that you have enter your URL on all the devices. We thought, that this is super inconvenient. So to help you with that
+
+TADAAAA - enter linksharer https://github.com/wearecube/device-lab-link-forwarder
