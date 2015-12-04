@@ -29,3 +29,6 @@ Die erweiterte Version von [schemaspy](https://github.com/drnoa/schemaspy), welc
 
 ### [Pascal Simon](https://github.com/psunix)
 Cryptopus: JavaScript aufgeräumt, Assets Precompile fixed https://github.com/puzzle/cryptopus
+
+### [Janiss Binder](https://github.com/janissbinder)
+Cryptopus: Accounts search fixed, das Löschen eines Teams eingeschränkt https://github.com/puzzle/cryptopus
