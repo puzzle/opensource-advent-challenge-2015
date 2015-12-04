@@ -45,3 +45,6 @@ TADAAAA - enter linksharer https://github.com/wearecube/device-lab-link-forwarde
 Der pull request von gestern wurde bereits wieder gemerged: <https://github.com/nijel/weblate/commit/7300b564e77a14cbc479108dfd034d4b9c4715e4>
 
 Heute habe ich an der Dokumentation unserers OpenShift 3 Puppet Modules weitergearbeitet: <https://github.com/puzzle/puppet-openshift3/commit/ae52fa675907f7a1323b3963282cda3850e9fad7>
+
+### [Max Burri](https://github.com/mburri)
+it's moooooving... 
