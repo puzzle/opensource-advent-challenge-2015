@@ -8,7 +8,19 @@ active: true
 
 <p>Heute, am ersten Tag der Challenge, können wir bereits&nbsp;folgende Contributions verzeichnen:</p>
 <h3><a href="https://www.puzzle.ch/de/blog/articles/author/dbinggeli">Daniel Binggeli</a>:</h3>
-<p>“Ich habe gestern folgende Anfrage erhalten. Dies weil ich mal einen Blog zu kiviendo (<span class="twikiNewLink">OpenSource</span>&nbsp;ERP) geschrieben habe. Das Dockerimage für SQL Ledger habe ich vor längerem schon mal erstellt. Wie sich herausgestellt hat hatte das aber noch ein paar Fehler. Ich habe das gestern Abend und heute Morgen noch korrigiert. Dockerfile hier: <a target="_top" href="https://github.com/drnoa/sqlledger_docker">https://github.com/drnoa/sqlledger_docker</a> Dockerhub Image hier: <a target="_top" href="https://hub.docker.com/r/drnoa/sqlledger-docker/">https://hub.docker.com/r/drnoa/sqlledger-docker/</a>”</p>
+<p>“Ich habe gestern folgende Anfrage erhalten. "danke, dass Du auf meinen Eintrag im Blog eingegangen bist. Das mit dem
+Port werde ich demnächst mal versuchen.
+
+Ich wollte fragen, ob Du eventuell an einer Portierung von SQL Ledger
+auf Docker interessiert bist und wieviel Du dafür berechnen würdest. Ich
+nutze SQL Ledger lieber, da die Partnergebühren um als Consultant tätig
+zu sein nicht so hoch sind wie bei kivitendo.
+
+Ich bin Mitglied folgendes Vereins: http://www.sql-ledger-network.com
+und habe auch auf github.com einige Sachen hinterlegt auf denen man
+eventuell aufbauen könnte: http://www.github.com/tapwag
+
+Herzliche Grüße und nochmals danke" Dies weil ich mal einen Blog zu kiviendo (<span class="twikiNewLink">OpenSource</span>&nbsp;ERP) geschrieben habe. Das Dockerimage für SQL Ledger habe ich vor längerem schon mal erstellt. Wie sich herausgestellt hat hatte das aber noch ein paar Fehler. Ich habe das gestern Abend und heute Morgen noch korrigiert. Dockerfile hier: <a target="_top" href="https://github.com/drnoa/sqlledger_docker">https://github.com/drnoa/sqlledger_docker</a> Dockerhub Image hier: <a target="_top" href="https://hub.docker.com/r/drnoa/sqlledger-docker/">https://hub.docker.com/r/drnoa/sqlledger-docker/</a>”</p>
 <h3><a href="https://www.puzzle.ch/de/blog/articles/author/pgassmann">Philipp Gassmann</a>:</h3>
 <p>“Kleiner kosmetischer Bugfix für das puppet-push Projekt: <a target="_top" href="https://github.com/tomas-edwardsson/puppet-push/pull/17">https://github.com/tomas-edwardsson/puppet-push/pull/17</a>”</p>
 <h3><a href="https://www.puzzle.ch/de/blog/articles/author/tphilipona">Thomas Philipona</a>:</h3>

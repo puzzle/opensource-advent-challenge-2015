@@ -15,3 +15,6 @@ Meine [Pebble Smartwatch](https://www.pebble.com/) hat ein Watchface, wo die Far
 
 ### [Philipp Gassmann](https://github.com/pgassmann)
 Mein [Puppet-Modul für Let's Encrypt](https://github.com/pgassmann/puppet-letsencrypt) ist auf GitHub gelandet.
+
+### [Daniel Binggeli](https://github.com/drnoa)
+Eine erweiterte Version von [schemaspy](https://github.com/drnoa/schemaspy) ist auf GitHub gelandet. Thomas Philipona und ich haben vor längerem schon damit begonnen das Projekt auf freemaker templates zu migrieren.
