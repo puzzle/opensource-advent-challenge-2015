@@ -162,7 +162,7 @@ section {
     padding: 100px 0;
     h2 {
     	margin: 0;
-    	font-size: 3em;
+    	font-size: 2em;
     }
 }
 
@@ -304,11 +304,14 @@ section.success {
             margin: 0 0 30px;
         }
     }
-  #contributors {
-	.contributors-item {
-	  margin: 0 0 30px;
-	}
-  }
+    #contributors {
+	    .contributors-item {
+	        margin: 0 0 30px;
+	    }
+    }
+    section h2 {
+        font-size: 3em;
+    }
 }
 
 .btn-outline {
@@ -468,6 +471,8 @@ footer {
 	color: @brand-primary;
 	text-decoration: underline;
 	outline: none;
+    overflow-wrap: break-word;
+    word-break: break-word;
   }
     .close-modal {
         position: absolute;
