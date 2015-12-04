@@ -14,4 +14,4 @@ Pull Request mit Fonts-Path-Fix für den admin.ch Styleguide wurde heute gemerge
 Meine [Pebble Smartwatch](https://www.pebble.com/) hat ein Watchface, wo die Farben konfiguriert werden können. Die aktuelle Konfiguration wurde jedoch nicht auf meinem Smartphone angezeigt. Das habe ich verbessert und einen Pull Request gemacht: <https://github.com/palian/BlueFuturistic/pull/2>
 
 ### [Philipp Gassmann](https://github.com/pgassmann)
-Mein [Puppet-Modul für Let's Encrypt] (https://github.com/pgassmann/puppet-letsencrypt) ist auf GitHub gelandet.
+Mein [Puppet-Modul für Let's Encrypt](https://github.com/pgassmann/puppet-letsencrypt) ist auf GitHub gelandet.
