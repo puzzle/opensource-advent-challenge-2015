@@ -30,3 +30,17 @@ Ich habe schon vor zwei Jahren begonnen für mich ein Framework für Prototyping
 
 ### [Anselm Strauss](https://github.com/amsibamsi)
 Kleine Commits am eigenen Home Profil, Antwort auf gemeldetes Problem mit vim-go Plugin. Siehe Github [History](https://github.com/amsibamsi?tab=contributions&from=2015-12-03).
+
+### [René Moser](http://renemoser.net/about/)
+"Am Abend vom 02.12. habe ich beim Implementieren vom Integrationstest
+der von Atsushi Sasaki erhaltenen Erweiterung in den Ansible CloudStack
+modules grad einige kleinere Bugs entdeckt. Hätte ich lieber nicht so
+genau hingeschaut. Ich konnte es dann nicht lassen, die Sachen grad zu
+fixen und zu testen.
+
+<https://github.com/ansible/ansible-modules-extras/pull/1322>
+
+Als ich nächstes Mal auf die Uhr geschaut habe, war dann schon der 3.12
+schon längst angebrochen...Morgen, eh heute wird es mich einholen
+befürchte ich."
+
