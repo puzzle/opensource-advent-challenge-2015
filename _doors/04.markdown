@@ -9,3 +9,6 @@ Latex-Template für die IPA nach Hermes.<https://github.com/phil-matti/ipa-latex
 
 ### [Mathis Hofer](https://github.com/hupf)
 Pull Request mit Fonts-Path-Fix für den admin.ch Styleguide wurde heute gemerged: <https://github.com/swiss/styleguide/pull/416>
+
+### [Christoph Raaflaub](https://github.com/chrira)
+Meine [Pebble Smartwatch](https://www.pebble.com/) hat ein Watchface, wo die Farben konfiguriert werden können. Die aktuelle Konfiguration wurde jedoch nicht auf meinem Smartphone angezeigt. Das habe ich verbessert und einen Pull Request gemacht: <https://github.com/palian/BlueFuturistic/pull/2>
