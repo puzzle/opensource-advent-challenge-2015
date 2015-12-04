@@ -18,6 +18,13 @@ Damit Puzzle Forms einfach für interessierte zugänglich ist, habe ich ein Dock
 ### [Philipp Gassmann](https://github.com/pgassmann)
 Beim Entwickeln von meinem Puppet-Modul für [Let's Encrypt, das übrigens heute in die Public Beta Phase eintrat] (https://letsencrypt.org/2015/12/03/entering-public-beta.html). Habe ich mich mit der getparam funktion aus dem stdlib modul auseinander gesetzt und deren unerwartetes Verhalten in einem Ticket erfasst. <https://tickets.puppetlabs.com/browse/MODULES-2874>
 
+### [Philipp Grogg](https://github.com/gro-gg)
+Dokumentation des Java Profilers [modjprof](https://github.com/gro-gg/modjprof) ergänzt.
+
+### [Max Burri](https://github.com/mburri)
+Heute habe ich den gh-pages branch für mein Projekt erstellt, so dass man jetzt die Weiterentwicklung des [Spiels](http://mburri.github.io/break-out/dist/index.html) mitverfolgen kann. Die verschiedenen Scenes werden jetzt in ein Canvas und nicht mehr als blosser Text gerendert. Spielen kann man noch nicht wirklich, ich habe aber die notwendigen Funktionen und den Reducer geschrieben, damit ich das dann morgen hoffentlich implementieren kann.
+Mit den Farben möchte ich übrigens alte EGA-Zeiten aufleben lassen - also brauchts dafür keine pull-requests oder issues!
+
 ### [Roland Studer](https://github.com/rolandstuder)
 Ich habe schon vor zwei Jahren begonnen für mich ein Framework für Prototyping von Webapplikationen auf Basis von Meteor.js zu entwicklen. Ich habe die Advents Challenge als Anlass genommen, das Projekt endlich unter eine MIT Lizenz gestellt. [Dokumentation](https://rolandstuder.github.io/jeizinen-meteor/index.html).
 
