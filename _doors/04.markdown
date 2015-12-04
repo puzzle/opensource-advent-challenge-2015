@@ -21,3 +21,9 @@ Eine erweiterte Version von [schemaspy](https://github.com/drnoa/schemaspy) ist 
 
 ### [Daniel Binggeli](https://github.com/drnoa)
 Da die installation der proprietären Nvidia Treiber mit Bumblebee auf Linux immer ein rechtes gebastel ist, habe damit begonnen die Installation und Konfiguration in einem Script [bumblebee-installer](https://github.com/drnoa/bumblebee-installer) zu vereinfachen. Der installtationsteil ist bereits intgriert, die Konfiguration wird noch folgen.
+
+### [Thomas Philipona](https://github.com/phil-pona)
+Die erweiterte Version von [schemaspy](https://github.com/drnoa/schemaspy), welche [Daniel Binggeli](https://github.com/drnoa) heute veröffentlicht hat, erweitert. Im Pull Request <https://github.com/drnoa/schemaspy/pull/2> wurde die Dokumenation angepasst und ein Changelog erstellt.
+
+
+
