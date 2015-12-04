@@ -6,3 +6,6 @@ active: true
 
 ### [Philipp Matti](https://github.com/phil-matti)
 Latex-Template für die IPA nach Hermes.<https://github.com/phil-matti/ipa-latex-template>
+
+### [Mathis Hofer](https://github.com/hupf)
+Pull Request mit Fonts-Path-Fix für den admin.ch Styleguide wurde heute gemerged: <https://github.com/puzzle/opensource-advent-challenge-2015.git>
