@@ -379,11 +379,10 @@ footer .footer-below {
   z-index: 1049;
 }
 .scroll-top .btn {
-  font-size: 20px;
   width: 50px;
   height: 50px;
   border-radius: 100%;
-  line-height: 28px;
+  line-height: 25px;
 }
 .scroll-top .btn:focus {
   outline: none;
