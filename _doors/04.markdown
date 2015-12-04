@@ -1,6 +1,6 @@
 ---
 day: 	4
-title:	Tag 4
+title:	Vorfreude aufs Wochenende ;-)
 active: true
 ---
 
