@@ -28,3 +28,5 @@ Mit den Farben möchte ich übrigens alte EGA-Zeiten aufleben lassen - also brau
 ### [Roland Studer](https://github.com/rolandstuder)
 Ich habe schon vor zwei Jahren begonnen für mich ein Framework für Prototyping von Webapplikationen auf Basis von Meteor.js zu entwicklen. Ich habe die Advents Challenge als Anlass genommen, das Projekt endlich unter eine MIT Lizenz gestellt. [Dokumentation](https://rolandstuder.github.io/jeizinen-meteor/index.html).
 
+### [Anselm Strauss](https://github.com/amsibamsi)
+Kleine Commits am eigenen Home Profil, Antwort auf gemeldetes Problem mit vim-go Plugin. Siehe Github [History](https://github.com/amsibamsi?tab=contributions&from=2015-12-03).
