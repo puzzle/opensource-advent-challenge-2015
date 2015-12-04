@@ -18,3 +18,6 @@ Mein [Puppet-Modul für Let's Encrypt](https://github.com/pgassmann/puppet-letse
 
 ### [Daniel Binggeli](https://github.com/drnoa)
 Eine erweiterte Version von [schemaspy](https://github.com/drnoa/schemaspy) ist auf GitHub gelandet. Thomas Philipona und ich haben vor längerem schon damit begonnen das Projekt auf freemaker templates zu migrieren.
+
+### [Daniel Binggeli](https://github.com/drnoa)
+Da die installation der proprietären Nvidia Treiber mit Bumblebee auf Linux immer ein rechtes gebastel ist, habe damit begonnen die Installation und Konfiguration in einem Script [bumblebee-installer](https://github.com/drnoa/bumblebee-installer) zu vereinfachen. Der installtationsteil ist bereits intgriert, die Konfiguration wird noch folgen.
