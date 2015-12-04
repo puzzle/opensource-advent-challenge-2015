@@ -1,5 +1,9 @@
 # Thömus Open Source Advent Challenge 2015
 
+Sourcecode of the [Open Source Advent Challenge Website](http://puzzle.github.io/opensource-advent-challenge-2015/)
+
+Add your contributions in the file of the day in the _doors directory.
+
 This is the GitHub Page based on the following Template 
 
 * [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
