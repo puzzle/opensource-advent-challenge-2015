@@ -17,7 +17,7 @@ active: active
 
 ### [Thomas Philipona](https://github.com/phil-pona)
 Copy & Paste Fehler im offiziellen Wildfly 9 STI Dockerfile gefixed und per [Pull Request](https://github.com/openshift/sti-wildfly/pull/62) eingegeben.
-Zusätzlich habe ich heute den Wildfly 10.0.0CR4 im OpenShift [Wildfly S2I Repo](https://github.com/phil-pona/sti-wildfly/tree/dev/wildfly10) hinzugefügt.
+Zusätzlich habe ich heute den Wildfly 10.0.0CR4 im OpenShift [Wildfly S2I Repo](https://github.com/phil-pona/sti-wildfly/) hinzugefügt.
 
 ### [Oliver Gugger](https://github.com/guggero)
 Initiales Projekt-Setup für das AngularJS-Modul [ng-user-auth](https://github.com/guggero/ng-user-auth): Projekt-Skeleton mit Karma-Tests und Travis-CI-Integration.
