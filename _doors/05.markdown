@@ -16,8 +16,8 @@ active: active
 [c-for-sys-linux](https://github.com/phil-matti/c-for-sys-linux) Ich erstelle einige Beispiele für die Nutzung von C unter Linux. Ziel ist es, einen eigenen Daemon zu programmieren und möglichst viel dabei zu lernen.
 
 ### [Thomas Philipona](https://github.com/phil-pona)
-Copy & Paste Fehler im offiziellen Wildfly 9 STI Dockerfile gefixed und per [Pull Request](https://github.com/openshift/sti-wildfly/pull/62) eingegeben.
-Zusätzlich habe ich heute den Wildfly 10.0.0CR4 im OpenShift [Wildfly S2I Repo](https://github.com/phil-pona/sti-wildfly/) hinzugefügt.
+Copy & Paste Fehler im offiziellen Wildfly 9 STI Dockerfile gefixed und per [Pull Request](https://github.com/openshift/sti-wildfly/pull/62) eingegeben, Pull Request gemerged.
+Zusätzlich habe ich heute den Wildfly 10.0.0CR4 im OpenShift [Wildfly S2I Repo](https://github.com/phil-pona/sti-wildfly/) hinzugefügt und dafür einen [Pull Request](https://github.com/openshift/sti-wildfly/pull/63) erstellt.
 
 ### [Oliver Gugger](https://github.com/guggero)
 Initiales Projekt-Setup für das AngularJS-Modul [ng-user-auth](https://github.com/guggero/ng-user-auth): Projekt-Skeleton mit Karma-Tests und Travis-CI-Integration.
