@@ -23,7 +23,14 @@ Zusätzlich habe ich heute den Wildfly 10.0.0CR4 im OpenShift [Wildfly S2I Repo]
 Initiales Projekt-Setup für das AngularJS-Modul [ng-user-auth](https://github.com/guggero/ng-user-auth): Projekt-Skeleton mit Karma-Tests und Travis-CI-Integration.
 
 ### [Lorenz Bischof](https://github.com/lbischof)
-Ich habe heute mehrere kleine Änderungen an [Puzzle Forms](https://github.com/lbischof/puzzle-forms) gemacht. Es gibt jetzt neu ein Configfile und der Prozess im Dockercontainer läuft nicht mehr als root. Zusätzlich habe ich eine neue Library eingesetzt welche das neue [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) einsetzt und endlich [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) ablöst.
+Ich habe heute mehrere kleine Änderungen an [Puzzle Forms](https://github.com/lbischof/puzzle-forms) gemacht. Es gibt jetzt neu ein Configfile und der Prozess im Dockercontainer läuft nicht mehr als root. Zusätzlich habe ich eine neue Library eingesetzt welche das neue [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) einsetzt und endlich [XMLHttpRequest](https://developer.mozilla.org/de/docs/Web/API/XMLHttpRequest) ablöst.
 
 ### [Janiss Binder](https://github.com/janissbinder)
-Heute habe ich das ERD vom Cryptopus erneuert: <https://github.com/puzzle/cryptopus/wiki> 
+Heute habe ich das ERD vom Cryptopus erneuert: <https://github.com/puzzle/cryptopus/wiki>
+
+### [Daniel Tschan](https://github.com/dtschan)
+OpenShift Enterprise 3.1 enthält nun einen integrierten EFK (Elasticsearch, Fluentd, Kibana) Stack um alle Container- und Platformlogs aggregrieren und analysieren zu können. Dessen Installation erfordert momentan noch diverse manuelle Schritte. Ich habe heute begonnen diese in unserem OpenShift 3 Puppet Modul zu automatisieren: <https://github.com/puzzle/puppet-openshift3/commits/logging>
+
+### [Philipp Gassmann](https://github.com/pgassmann)
+Letsencrypt Puppet Modul auf Forge hochgeladen: <https://forge.puppetlabs.com/pgassmann/letsencrypt>
+Alternatives Letsencrypt Puppetmodul gefunden: <https://forge.puppetlabs.com/danzilio/letsencrypt>
