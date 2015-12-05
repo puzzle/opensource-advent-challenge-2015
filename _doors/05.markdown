@@ -27,3 +27,6 @@ Ich habe heute mehrere kleine Änderungen an [Puzzle Forms](https://github.com/l
 
 ### [Janiss Binder](https://github.com/janissbinder)
 Heute habe ich das ERD vom Cryptopus erneuert: <https://github.com/puzzle/cryptopus/wiki>
+
+### [Daniel Tschan](https://github.com/dtschan)
+OpenShift Enterprise 3.1 enthält nun einen integrierten EFK (Elasticsearch, Fluentd, Kibana) Stack um alle Container- und Platformlogs aggregrieren und analysieren zu können. Dessen Installation erfordert momentan noch diverse manuelle Schritte. Ich habe heute begonnen diese in unserem OpenShift 3 Puppet Modul zu automatisieren: <https://github.com/puzzle/puppet-openshift3/commits/logging>
