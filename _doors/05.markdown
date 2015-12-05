@@ -34,3 +34,6 @@ OpenShift Enterprise 3.1 enthält nun einen integrierten EFK (Elasticsearch, Flu
 ### [Philipp Gassmann](https://github.com/pgassmann)
 Letsencrypt Puppet Modul auf Forge hochgeladen: <https://forge.puppetlabs.com/pgassmann/letsencrypt>
 Alternatives Letsencrypt Puppetmodul gefunden: <https://forge.puppetlabs.com/danzilio/letsencrypt>
+
+### [Daniel Binggeli](https://github.com/drnoa)
+[bumblebee-installer](https://github.com/drnoa/bumblebee-installer) um Konfigurationsteil erweitert. Ist sicher noch nicht für jeden Rechner geeignet, aber lokal funktioniert das ganze bereits.
