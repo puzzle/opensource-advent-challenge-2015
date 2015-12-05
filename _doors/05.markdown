@@ -19,5 +19,8 @@ active: active
 Copy & Paste Fehler im offiziellen Wildfly 9 STI Dockerfile gefixed und per [Pull Request](https://github.com/openshift/sti-wildfly/pull/62) eingegeben.
 Zusätzlich habe ich heute den Wildfly 10.0.0CR4 im OpenShift [Wildfly S2I Repo](https://github.com/phil-pona/sti-wildfly/tree/dev/wildfly10) hinzugefügt.
 
+### [Oliver Gugger](https://github.com/guggero)
+Initiales Projekt-Setup für das AngularJS-Modul [ng-user-auth](https://github.com/guggero/ng-user-auth): Projekt-Skeleton mit Karma-Tests und Travis-CI-Integration.
+
 ### [Lorenz Bischof](https://github.com/lbischof)
 Ich habe heute mehrere kleine Änderungen an [Puzzle Forms](https://github.com/lbischof/puzzle-forms) gemacht. Es gibt jetzt neu ein Configfile und der Prozess im Dockercontainer läuft nicht mehr als root. Zusätzlich habe ich eine neue Library eingesetzt welche das neue [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) einsetzt und endlich [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) ablöst.
