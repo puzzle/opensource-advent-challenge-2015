@@ -5,3 +5,7 @@ active: active
 ---
 
 du leise Zeit
+
+
+### [Pascal Simon](https://github.com/psunix)
+[Cryptopus](https://github.com/puzzle/cryptopus): Heute hat Cryptopus development seeds für die User erhalten. 
