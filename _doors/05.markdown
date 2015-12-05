@@ -24,3 +24,6 @@ Initiales Projekt-Setup für das AngularJS-Modul [ng-user-auth](https://github.c
 
 ### [Lorenz Bischof](https://github.com/lbischof)
 Ich habe heute mehrere kleine Änderungen an [Puzzle Forms](https://github.com/lbischof/puzzle-forms) gemacht. Es gibt jetzt neu ein Configfile und der Prozess im Dockercontainer läuft nicht mehr als root. Zusätzlich habe ich eine neue Library eingesetzt welche das neue [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) einsetzt und endlich [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) ablöst.
+
+### [Janiss Binder](https://github.com/janissbinder)
+Heute habe ich das ERD vom Cryptopus erneuert: <https://github.com/puzzle/cryptopus/wiki> 
