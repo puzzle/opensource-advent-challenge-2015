@@ -3,28 +3,42 @@ layout: default
 ---
 
 <div class="row">
+
+  <div class="app-folders-container"> 
     {% for door in site.doors %}
-	{% if door.active %}
-      <div class="col-sm-4 portfolio-item">
-          <a href="#contributions-day-{{ door.day }}" data-toggle="modal" class="portfolio-link">
-          	<div class="caption">
-          	    <div class="caption-content">
-          	        <i class="fa fa-calendar-o fa-3x"></i>
-          	    </div>
-          	</div>
-          	<div class="calendaritem">
-          	    <h1>{{ door.day }}</h1>
-          	</div>
+      {% assign loopindex = forloop.index | modulo: 3 %}      
+      {% if loopindex == 1 %}
+      <div class="jaf-row jaf-container">
+      {% endif %}
+        {% if door.active %}
+        <div class="col-xs-4 folder portfolio-item" id="contributions-day-{{ door.day }}">
+          <a href="#" data-toggle="modal" class="portfolio-link">
+            <div class="caption">
+              <div class="caption-content">
+                <i class="fa fa-calendar-o fa-3x"></i>
+              </div>
+            </div>
+            <div class="calendaritem">
+              <h1>{{ door.day }}</h1>
+            </div>
           </a>
-      </div>
-	{% else %}
-		<div class="col-sm-4 portfolio-item">
-			<div class="portfolio-link" >
-				<div class="calendaritem inactivday">
-					<h1>{{ door.day }}</h1>
-				</div>
-			</div>
-		</div>
-	{% endif %}
+        </div>
+        {% else %}
+        <div class="col-xs-4 portfolio-item">
+          <div class="portfolio-link" >
+            <div class="calendaritem inactivday">
+              <h1>{{ door.day }}</h1>
+            </div>
+          </div>
+        </div>
+        {% endif %} 
+        <div class="col-xs-12 folderContent contributions-day-{{ door.day }} contributions">
+          <h2>{{ door.title }}
+          {{ door.content }}
+        </div>
+        {% if loopindex == 0 %}
+          </div><!-- jaf-row jaf-container-->
+        {% endif %}
     {% endfor %}
+  </div><!--  .app-folders-container -->    
 </div>
