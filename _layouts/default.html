@@ -22,6 +22,39 @@
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
+    <style>
+    a, a:hover {color: blue;}
+    .contributions {
+        background-color: #69B978;
+        color: white;
+        padding: 2em;
+    }
+
+    .contributions a {
+        color: white;
+        text-decoration: underline;
+    }
+
+    .active-tool:before {
+        content: "";
+        width: 0; 
+        height: 0; 
+        border-left: 3em solid transparent;
+        border-right: 3em solid transparent;
+        
+        border-bottom: 3em solid #69B978;
+        position: absolute;
+        bottom: -2em;
+        left: 30%;
+    }
+
+    @media(min-width:766px) {
+        .active-tool:before {
+            left: 35%;
+        }
+    
+    }   
+    </style>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -62,9 +95,6 @@
         </a>
     </div>
 
-    <!-- Portfolio Modals -->
-    {% include modals.html %}
-
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 
@@ -83,6 +113,22 @@
     <!-- Custom Theme JavaScript -->
     <script src="js/freelancer.js"></script>
 
+    <!-- for expanding door effect -->
+    <script src="js/jquery.app-folders.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('.app-folders-container').appFolders({
+                opacity: .6,
+                animationSpeed: 100,
+                instaSwitch: true
+            });
+            var date = new Date();
+            var dayOfTheMonth = date.getDate();
+            var triggerTarget = "#contributions-day-" + dayOfTheMonth;
+            $(triggerTarget).trigger('click');
+        });    
+     </script>
 </body>
 
 </html>
