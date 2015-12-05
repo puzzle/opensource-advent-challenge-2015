@@ -8,4 +8,9 @@ du leise Zeit
 
 
 ### [Pascal Simon](https://github.com/psunix)
-[Cryptopus](https://github.com/puzzle/cryptopus): Heute hat Cryptopus development seeds für die User erhalten. 
+[Cryptopus](https://github.com/puzzle/cryptopus): Heute hat Cryptopus development seeds für die User erhalten.
+
+### [Max Burri](https://github.com/mburri)
+[Man kann jetzt tatsächlich spielen (und verlieren)](http://mburri.github.io/break-out/dist/index.html)
+- ich musste einige Teile der Applikation anpassen und habe einiges über die redux reducers, vor allem über die Kombination mehrerer reducers, gelernt.
+- aus heiterem Himmel kam mein erster (nicht Puzzler) Follower [vom anderen Ende der Welt](https://github.com/TomClarkson).
