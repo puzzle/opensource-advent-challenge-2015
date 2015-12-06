@@ -22,3 +22,6 @@ Ich habe heute angefangen für [Respondcms](https://github.com/madoublet/respond
 
 ### [Oliver Gugger](https://github.com/guggero)
 Version 0.0.2 von [ng-user-auth](https://github.com/guggero/ng-user-auth): Projekt-unabhängiges Modul erstellt, Dependencies aufgeräumt und alle Tests lauffähig gemacht. 
+
+### [Pascal Simon](https://github.com/psunix)
+[Cryptopus](https://github.com/puzzle/cryptopus): Development Seeder ausgebaut
