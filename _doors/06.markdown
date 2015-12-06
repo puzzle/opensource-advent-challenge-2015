@@ -8,8 +8,8 @@ active: true
 Samichlous du guete Maa, hüt hei mr fougendi Contributions gha... ;-)
 
 ### [Thomas Philipona](https://github.com/phil-pona)
-Heute habe ich versucht die [Symfony2 Demo Applikation](https://github.com/symfony/symfony-demo) dabei habe ich festgestellt, dass das aktuelle [PHP OpenShift S2I Image](https://github.com/openshift/sti-pp) keine Scripts in der Assemble Phase ausführt, habe dazu nun einen [Issue](https://github.com/openshift/sti-php/issues/73) erfasst.
+Heute habe ich versucht die [Symfony2 Demo Applikation](https://github.com/symfony/symfony-demo) dabei habe ich festgestellt, dass das aktuelle [PHP OpenShift S2I Image](https://github.com/openshift/sti-php) keine Scripts in der Assemble Phase ausführt, habe dazu nun einen [Issue](https://github.com/openshift/sti-php/issues/73) erfasst.
 Das Ziel ist es für die Demo Applikation ein OpenShift 3 Template zu erstellen, mit welchem die Applikation per Knopfdruck auf OpenShift 3 deployed werden kann.
-
+Die erste Version dieses Templates habe ich heute auf [GitHub](https://github.com/phil-pona/ose3-symfony2-ex) bestellt.
 
 
