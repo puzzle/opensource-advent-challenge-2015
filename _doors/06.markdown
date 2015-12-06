@@ -12,6 +12,8 @@ Heute habe ich versucht die [Symfony2 Demo Applikation](https://github.com/symfo
 Das Ziel ist es für die Demo Applikation ein OpenShift 3 Template zu erstellen, mit welchem die Applikation per Knopfdruck auf OpenShift 3 deployed werden kann.
 Die erste Version dieses Templates habe ich heute auf [GitHub](https://github.com/phil-pona/ose3-symfony2-ex) bestellt.
 
+Zusätzlich wurde heute mein gestriger [Pull Request](https://github.com/openshift/sti-wildfly/pull/63) gemerged. Das Openshift Wildfly10 Docker Image ist ab sofort auf [Dockerhub](https://hub.docker.com/r/openshift/wildfly-10-centos7/) verfügbar.
+
 ### [Lorenz Bischof](https://github.com/lbischof)
 Ich habe heute angefangen für [Respondcms](https://github.com/madoublet/respond) ein Dockerfile zu schreiben. [respondcms-docker](https://github.com/lbischof/respondcms-docker).
 
