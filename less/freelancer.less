@@ -114,9 +114,6 @@ header {
             }
         }
     }
-}
-
-@media(min-width:768px) {
     .navbar-fixed-top {
         padding: 25px 0;
         -webkit-transition: padding 0.3s;
@@ -190,7 +187,6 @@ section.success {
         padding-top: 75px;
     }
 }
-
 #portfolio {
     .portfolio-item {
         margin: 0 0 15px;
@@ -216,7 +212,6 @@ section.success {
                     position: absolute;
                     width: 100%;
                     height: 20px;
-                    font-size: 20px;
                     text-align: center;
                     top: 50%;
                     margin-top: -12px;
@@ -233,17 +228,15 @@ section.success {
         }
         .calendaritem{
             width: 100%;
-            font-size: 20px;
             text-align: center;
             h1 {
+                font-size: 5em;
                 color: #2c3e50;
-                font-size: 8em;
             }
         }
         .inactivday{
             h1 {
                 color: #dddddd;
-                font-size: 8em;
             }
         }
 
@@ -300,6 +293,12 @@ section.success {
 }
 
 @media(min-width:767px) {
+    #portfolio .portfolio-item .portfolio-link .caption .caption-content {
+        font-size: 20px;
+    }
+    #portfolio .calendaritem h1 {
+        font-size: 8em !important;
+    }
     #portfolio {
         .portfolio-item {
             margin: 0 0 30px;

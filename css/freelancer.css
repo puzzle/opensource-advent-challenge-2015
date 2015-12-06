@@ -15,8 +15,13 @@
   border-right: 3em solid transparent;
   border-bottom: 3em solid #69B978;
   position: absolute;
-  bottom: -2em;
+  bottom: -3em;
   left: calc(50% - 3em);
+}
+@media (min-width: 767px) {
+  .active-tool:before {
+    bottom: -2em;
+  }
 }
 body {
   overflow-x: hidden;
@@ -116,8 +121,6 @@ header .intro-text .skills {
   header .intro-text .skills {
     font-size: 1.75em;
   }
-}
-@media (min-width: 768px) {
   .navbar-fixed-top {
     padding: 25px 0;
     -webkit-transition: padding 0.3s;
@@ -210,7 +213,6 @@ section.success a.active {
   position: absolute;
   width: 100%;
   height: 20px;
-  font-size: 20px;
   text-align: center;
   top: 50%;
   margin-top: -12px;
@@ -225,16 +227,14 @@ section.success a.active {
 }
 #portfolio .portfolio-item .calendaritem {
   width: 100%;
-  font-size: 20px;
   text-align: center;
 }
 #portfolio .portfolio-item .calendaritem h1 {
+  font-size: 5em;
   color: #2c3e50;
-  font-size: 8em;
 }
 #portfolio .portfolio-item .inactivday h1 {
   color: #dddddd;
-  font-size: 8em;
 }
 #portfolio * {
   z-index: 2;
@@ -283,6 +283,12 @@ section.success a.active {
   z-index: 2;
 }
 @media (min-width: 767px) {
+  #portfolio .portfolio-item .portfolio-link .caption .caption-content {
+    font-size: 20px;
+  }
+  #portfolio .calendaritem h1 {
+    font-size: 8em !important;
+  }
   #portfolio .portfolio-item {
     margin: 0 0 30px;
   }
