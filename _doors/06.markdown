@@ -5,7 +5,7 @@ active: true
 ---
 
 
-Samichlous du guete Maa, hüt hei mr vougendi Contributions gha... ;-)
+Samichlous du guete Maa, hüt hei mr fougendi Contributions gha... ;-)
 
 ### [Thomas Philipona](https://github.com/phil-pona)
 Heute habe ich versucht die [Symfony2 Demo Applikation] (https://github.com/symfony/symfony-demo) dabei habe ich festgestellt, dass das aktuelle [PHP OpenShift S2I Image] (https://github.com/openshift/sti-pp) keine Scripts in der Assemble Phase ausführt, habe dazu nun einen [Issue](https://github.com/openshift/sti-php/issues/73) erfasst.
