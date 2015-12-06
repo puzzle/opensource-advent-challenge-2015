@@ -17,3 +17,6 @@ Ich habe heute angefangen für [Respondcms](https://github.com/madoublet/respond
 
 ### [Philipp Matti](https://github.com/phil-matti)
 [c-for-sys-linux](https://github.com/phil-matti/c-for-sys-linux) Ich habe noch die verwendeten Libraries kommentiert und ein Programm geschrieben das in ein File schreiben kann und ein paar kleinere Anpassungen gemacht.
+
+### [Oliver Gugger](https://github.com/guggero)
+Version 0.0.2 von [ng-user-auth](https://github.com/guggero/ng-user-auth): Projekt-unabhängiges Modul erstellt, Dependencies aufgeräumt und alle Tests lauffähig gemacht. 
