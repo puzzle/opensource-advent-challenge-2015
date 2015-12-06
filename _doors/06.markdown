@@ -13,4 +13,4 @@ Das Ziel ist es für die Demo Applikation ein OpenShift 3 Template zu erstellen,
 Die erste Version dieses Templates habe ich heute auf [GitHub](https://github.com/phil-pona/ose3-symfony2-ex) bestellt.
 
 ### [Lorenz Bischof](https://github.com/lbischof)
-Ich habe heute angefangen für [Respondcms](https://github.com/madoublet/respond) ein Dockerfile zu schreiben. [respondcms-docker](https://github.com/madoublet/respond).
+Ich habe heute angefangen für [Respondcms](https://github.com/madoublet/respond) ein Dockerfile zu schreiben. [respondcms-docker](https://github.com/lbischof/respondcms-docker).
