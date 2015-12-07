@@ -31,3 +31,6 @@ An der Automatisierung der Installation des OpenShift Enterprise EFK Stacks weit
 
 ### [Anselm Strauss](https://github.com/amsibamsi)
 OpenGL Beispiel implementiert, wie man eine Textur als Hintergrund des ganzen Fensters anzeigt. Könnte gebraucht werden um das Rasterizing Komplett auf der CPU zu rechnen und dann das fertige Bild nur noch mittels OpenGL anzuzeigen. Der Umweg über OpenGL hat den Vorteil, dass dies auf vielen Plattformen gleich funktioniert und nur einmal implementiert werden muss, da OpenGL weit verbreitet ist. <https://github.com/amsibamsi/opengl-examples/tree/master/bitmap>
+
+### [Philipp Grogg](https://github.com/gro-gg)
+Dokumentation des Java Profilers [modjprof](https://github.com/gro-gg/modjprof) ergänzt.

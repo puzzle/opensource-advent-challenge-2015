@@ -16,3 +16,6 @@ Ein Minicommit an mein prototyping framework. Autobinding funktioniert jetzt auc
 
 ### [Pascal Simon](https://github.com/psunix)
 [Cryptopus](https://github.com/puzzle/cryptopus): Auch heute gibt es wieder was für Cryptopus. Neue Methode für das Erstellen von Teams erstellt und getestet. Damit sind wir dem Ziel die Business Logik aus den Controller zu entfernen einen Schritt näher.
+
+### [Philipp Grogg](https://github.com/gro-gg)
+Refactoring des Java Profilers [modjprof](https://github.com/gro-gg/modjprof).

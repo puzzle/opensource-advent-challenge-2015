@@ -37,3 +37,6 @@ Alternatives Letsencrypt Puppetmodul gefunden: <https://forge.puppetlabs.com/dan
 
 ### [Daniel Binggeli](https://github.com/drnoa)
 [bumblebee-installer](https://github.com/drnoa/bumblebee-installer) um Konfigurationsteil erweitert. Ist sicher noch nicht für jeden Rechner geeignet, aber lokal funktioniert das ganze bereits.
+
+### [Philipp Grogg](https://github.com/gro-gg)
+Dokumentation des Java Profilers [modjprof](https://github.com/gro-gg/modjprof) ergänzt.

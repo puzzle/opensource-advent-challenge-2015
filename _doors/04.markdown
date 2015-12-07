@@ -54,3 +54,6 @@ Sicherstellen, dass die Advents Challenge Seite auf Handies nur in eine Richtung
 
 ### [Anselm Strauss](https://github.com/amsibamsi)
 Kommentar zu gutem Blog Post über IPMI: <https://linuxmonk.ch/wordpress/index.php/2015/setup-remote-server-management-of-a-supermicro-bmc-with-freeipmi-on-linux/>
+
+### [Philipp Grogg](https://github.com/gro-gg)
+Dokumentation des Java Profilers [modjprof](https://github.com/gro-gg/modjprof) ergänzt.
