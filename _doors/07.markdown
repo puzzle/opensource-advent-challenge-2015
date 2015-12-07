@@ -5,3 +5,8 @@ active: true
 ---
 
 
+### [Thomas Philipona](https://github.com/phil-pona)
+Heute habe ich die Dokumentation um das openshift/wildfly-100-centos7 erweitert und als [Pull Request](https://github.com/openshift/sti-wildfly/pull/65) eingegeben.
+
+Des Weiteren habe ich das [sti-php](https://github.com/phil-pona/sti-php) geforked und die im [Issue](https://github.com/openshift/sti-php/issues/73) beschriebene Lösung von gestern umgesetzt. Und entsprechend das [OpenShift V 3 Symfony Template angepasst](https://github.com/phil-pona/ose3-symfony2-ex) und die Dokumentation angepasst.
+
