@@ -10,3 +10,6 @@ Heute habe ich die Dokumentation um das openshift/wildfly-100-centos7 erweitert 
 
 Des Weiteren habe ich das [sti-php](https://github.com/phil-pona/sti-php) geforked und die im [Issue](https://github.com/openshift/sti-php/issues/73) beschriebene Lösung von gestern umgesetzt. Und entsprechend das [OpenShift V 3 Symfony Template angepasst](https://github.com/phil-pona/ose3-symfony2-ex) und die Dokumentation angepasst.
 
+### [Roland Studer](https://github.com/rolandstuder)
+
+Ein Minicommit an mein prototyping framework. Autobinding funktioniert jetzt auch wenn, das input Feld keinen type aufweist. [commit](https://github.com/RolandStuder/jeizinen-meteor/commit/28bb3a8a8191ec01e97662f69bde80e2dbd67b91)
