@@ -13,3 +13,6 @@ Des Weiteren habe ich das [sti-php](https://github.com/phil-pona/sti-php) gefork
 ### [Roland Studer](https://github.com/rolandstuder)
 
 Ein Minicommit an mein prototyping framework. Autobinding funktioniert jetzt auch wenn, das input Feld keinen type aufweist. [commit](https://github.com/RolandStuder/jeizinen-meteor/commit/28bb3a8a8191ec01e97662f69bde80e2dbd67b91)
+
+### [Pascal Simon](https://github.com/psunix)
+[Cryptopus](https://github.com/puzzle/cryptopus): Auch heute gibt es wieder was für Cryptopus. Neue Methode für das Erstellen von Teams erstellt und getestet. Damit sind wir dem Ziel die Business Logik aus den Controller zu entfernen einen Schritt näher.
