@@ -6,6 +6,8 @@
 .contributions a {
   color: white;
   text-decoration: underline;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 .active-tool:before {
   content: "";
@@ -15,12 +17,12 @@
   border-right: 3em solid transparent;
   border-bottom: 3em solid #69B978;
   position: absolute;
-  bottom: -2em;
-  left: 30%;
+  bottom: -3em;
+  left: calc(50% - 3em);
 }
-@media (min-width: 766px) {
+@media (min-width: 767px) {
   .active-tool:before {
-    left: 35%;
+    bottom: -2em;
   }
 }
 body {
@@ -121,8 +123,6 @@ header .intro-text .skills {
   header .intro-text .skills {
     font-size: 1.75em;
   }
-}
-@media (min-width: 768px) {
   .navbar-fixed-top {
     padding: 25px 0;
     -webkit-transition: padding 0.3s;
@@ -215,7 +215,6 @@ section.success a.active {
   position: absolute;
   width: 100%;
   height: 20px;
-  font-size: 20px;
   text-align: center;
   top: 50%;
   margin-top: -12px;
@@ -230,16 +229,14 @@ section.success a.active {
 }
 #portfolio .portfolio-item .calendaritem {
   width: 100%;
-  font-size: 20px;
   text-align: center;
 }
 #portfolio .portfolio-item .calendaritem h1 {
+  font-size: 5em;
   color: #2c3e50;
-  font-size: 8em;
 }
 #portfolio .portfolio-item .inactivday h1 {
   color: #dddddd;
-  font-size: 8em;
 }
 #portfolio * {
   z-index: 2;
@@ -288,6 +285,12 @@ section.success a.active {
   z-index: 2;
 }
 @media (min-width: 767px) {
+  #portfolio .portfolio-item .portfolio-link .caption .caption-content {
+    font-size: 20px;
+  }
+  #portfolio .calendaritem h1 {
+    font-size: 8em !important;
+  }
   #portfolio .portfolio-item {
     margin: 0 0 30px;
   }
@@ -411,29 +414,4 @@ footer .footer-below {
 }
 .scroll-top .btn:focus {
   outline: none;
-}
-.contributions {
-  background-color: #69B978;
-  color: white;
-  padding: 2em;
-}
-.contributions a {
-  color: white;
-  text-decoration: underline;
-}
-.active-tool:before {
-  content: "";
-  width: 0;
-  height: 0;
-  border-left: 3em solid transparent;
-  border-right: 3em solid transparent;
-  border-bottom: 3em solid #69B978;
-  position: absolute;
-  bottom: -2em;
-  left: 30%;
-}
-@media (min-width: 766px) {
-  .active-tool:before {
-    left: 35%;
-  }
 }

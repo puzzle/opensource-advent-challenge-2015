@@ -1,7 +1,30 @@
 ---
 day: 	6
-title:	Es geht weiter...
-active: false
+title:	Liebe Samichlous
+active: true
 ---
 
 
+Samichlous du guete Maa, hüt hei mr fougendi Contributions gha... ;-)
+
+### [Thomas Philipona](https://github.com/phil-pona)
+Heute habe ich versucht die [Symfony2 Demo Applikation](https://github.com/symfony/symfony-demo) auf OpenShift V3 zu deployen. Dabei habe ich festgestellt, dass das aktuelle [PHP OpenShift S2I Image](https://github.com/openshift/sti-php) keine Scripts in der Assemble Phase ausführt, habe dazu nun einen [Issue](https://github.com/openshift/sti-php/issues/73) erfasst.
+Das Ziel ist es für die Demo Applikation ein OpenShift 3 Template zu erstellen, mit welchem die Applikation per Knopfdruck auf OpenShift 3 deployed werden kann.
+Die erste Version dieses Templates habe ich heute auf [GitHub](https://github.com/phil-pona/ose3-symfony2-ex) bestellt.
+
+Zusätzlich wurde heute mein gestriger [Pull Request](https://github.com/openshift/sti-wildfly/pull/63) gemerged. Das Openshift Wildfly10 Docker Image ist ab sofort auf [Dockerhub](https://hub.docker.com/r/openshift/wildfly-100-centos7/) verfügbar.
+
+### [Lorenz Bischof](https://github.com/lbischof)
+Ich habe heute angefangen für [Respondcms](https://github.com/madoublet/respond) ein Dockerfile zu schreiben. [respondcms-docker](https://github.com/lbischof/respondcms-docker).
+
+### [Philipp Matti](https://github.com/phil-matti)
+[c-for-sys-linux](https://github.com/phil-matti/c-for-sys-linux) Ich habe noch die verwendeten Libraries kommentiert und ein Programm geschrieben das in ein File schreiben kann und ein paar kleinere Anpassungen gemacht.
+
+### [Oliver Gugger](https://github.com/guggero)
+Version 0.0.2 von [ng-user-auth](https://github.com/guggero/ng-user-auth): Projekt-unabhängiges Modul erstellt, Dependencies aufgeräumt und alle Tests lauffähig gemacht. 
+
+### [Pascal Simon](https://github.com/psunix)
+[Cryptopus](https://github.com/puzzle/cryptopus): Development Seeder ausgebaut
+
+### [Daniel Tschan](https://github.com/dtschan)
+An der Automatisierung der Installation des OpenShift Enterprise EFK Stacks weitergearbeitet: <https://github.com/puzzle/puppet-openshift3/commits/logging>

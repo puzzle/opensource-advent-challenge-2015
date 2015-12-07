@@ -89,9 +89,7 @@
                 animationSpeed: 100,
                 instaSwitch: true
             });
-            var date = new Date();
-            var dayOfTheMonth = date.getDate();
-            var triggerTarget = "#contributions-day-" + dayOfTheMonth;
+            var triggerTarget = ".folder:last";
             $(triggerTarget).trigger('click');
         });
      </script>
