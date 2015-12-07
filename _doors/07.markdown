@@ -23,3 +23,5 @@ Refactoring des Java Profilers [modjprof](https://github.com/gro-gg/modjprof).
 ### [Janiss Binder](https://github.com/janissbinder)
 Heute habe ich im Cryptopus einen Bug behoben, damit die Teams wieder angezeigt werden und eine neue Wiki Seite zum Thema Permissions erstellt [Cryptopus](https://github.com/puzzle/cryptopus).
 
+### [Lorenz Bischof](https://github.com/lbischof)
+Ich habe heute versucht die Berechtigungen auf einem Dockervolume zu ändern. Die schwierigkeit ist, dies Host unabhängig zu machen. Ich bin mit der aktuellen Lösung noch nicht zufrieden und werde es in den nächsten Tagen noch überarbeiten. Zusätzlich habe ich [nginx-proxy](https://github.com/jwilder/nginx-proxy) ausprobiert und anfänglich eingebaut. [respondcms-docker](https://github.com/lbischof/respondcms-docker)
