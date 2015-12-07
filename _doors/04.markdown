@@ -51,3 +51,6 @@ it's moooooving...
 
 ### [Lorenz Bischof](https://github.com/lbischof)
 Sicherstellen, dass die Advents Challenge Seite auf Handies nur in eine Richtung scrollt. <https://github.com/puzzle/opensource-advent-challenge-2015/commit/a09fb94b68611f431a13063f14fec8eb56ae1965>
+
+### [Anselm Strauss](https://github.com/amsibamsi)
+Kommentar zu gutem Blog Post über IPMI: <https://linuxmonk.ch/wordpress/index.php/2015/setup-remote-server-management-of-a-supermicro-bmc-with-freeipmi-on-linux/>
