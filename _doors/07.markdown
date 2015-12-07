@@ -1,7 +1,7 @@
 ---
 day: 	7
 title:	Es geht weiter...
-active: false
+active: true
 ---
 
 
