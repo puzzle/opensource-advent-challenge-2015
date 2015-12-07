@@ -25,3 +25,6 @@ Version 0.0.2 von [ng-user-auth](https://github.com/guggero/ng-user-auth): Proje
 
 ### [Pascal Simon](https://github.com/psunix)
 [Cryptopus](https://github.com/puzzle/cryptopus): Development Seeder ausgebaut
+
+### [Daniel Tschan](https://github.com/dtschan)
+An der Automatisierung der Installation des OpenShift Enterprise EFK Stacks weitergearbeitet: <https://github.com/puzzle/puppet-openshift3/commits/logging>
