@@ -16,3 +16,6 @@ Eine kleine Anpassung des Readmes von gestern noch korrigiert und ein paar Komme
 
 ### [Pascal Simon](https://github.com/psunix)
 [Cryptopus](https://github.com/puzzle/cryptopus): Ja auch am 8. Tag gibt es wieder einen Commit an Cryptopus. Diesmal sind es einige Controller Tests sowie das Auslagern der Business-Logik in die Models. Cheers.
+
+### [Philipp Grogg](https://github.com/gro-gg)
+Refactoring des Java Profilers [modjprof](https://github.com/gro-gg/modjprof).
