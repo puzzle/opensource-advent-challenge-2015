@@ -1,6 +1,6 @@
 ---
 day: 	8
-title:	Die erste Woche ist geschaft.
+title:	Die erste Woche ist geschafft.
 active: true
 ---
 
