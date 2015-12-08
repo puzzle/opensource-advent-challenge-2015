@@ -1,7 +1,11 @@
 ---
 day: 	8
-title:	Es geht weiter...
-active: false
+title:	Die erste Woche ist geschaft.
+active: true
 ---
+
+
+### [Thomas Philipona](https://github.com/phil-pona)
+Der [Pull Request](https://github.com/openshift/sti-wildfly/pull/65) von gestern wurde gemerged.
 
 
