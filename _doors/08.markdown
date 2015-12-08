@@ -6,6 +6,6 @@ active: true
 
 
 ### [Thomas Philipona](https://github.com/phil-pona)
-Der [Pull Request](https://github.com/openshift/sti-wildfly/pull/65) von gestern wurde gemerged.
+Der [Pull Request](https://github.com/openshift/sti-wildfly/pull/65) von gestern wurde gemerged. Des Weiteren habe ich angefangen unser [OSE3 Docker Builder](https://github.com/puzzle/puzzle-ose3-docker-builder) in einem [Fork](https://github.com/phil-pona/puzzle-ose3-docker-builder) auf die Origin Version umzuschreiben.
 
 
