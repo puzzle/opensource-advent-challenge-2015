@@ -9,3 +9,6 @@ active: true
 Der [Pull Request](https://github.com/openshift/sti-wildfly/pull/65) von gestern wurde gemerged. Des Weiteren habe ich angefangen unser [OSE3 Docker Builder](https://github.com/puzzle/puzzle-ose3-docker-builder) in einem [Fork](https://github.com/phil-pona/puzzle-ose3-docker-builder) auf die Origin Version umzuschreiben.
 
 
+
+### [Daniel Binggeli](https://github.com/drnoa)
+Eine kleine Anpassung des Readmes von gestern noch korrigiert. Gestern zudem den bumblebee-indicator in den Installer integriert. Da das nur eine kleine Controbution war, erwähne ich das erst heute. (https://github.com/drnoa/bumblebee-installer)
