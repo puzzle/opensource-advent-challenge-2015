@@ -19,3 +19,6 @@ Eine kleine Anpassung des Readmes von gestern noch korrigiert und ein paar Komme
 
 ### [Philipp Grogg](https://github.com/gro-gg)
 Refactoring des Java Profilers [modjprof](https://github.com/gro-gg/modjprof).
+
+### [Lorenz Bischof](https://github.com/lbischof)
+Cleanup und refactoring vom IPA Latex-Template. [pull request](https://github.com/phil-matti/ipa-latex-template/pull/1)
