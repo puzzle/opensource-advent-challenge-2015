@@ -11,7 +11,7 @@ Der [Pull Request](https://github.com/openshift/sti-wildfly/pull/65) von gestern
 
 
 ### [Daniel Binggeli](https://github.com/drnoa)
-Eine kleine Anpassung des Readmes von gestern noch korrigiert und ein paar Kommentare im Script ergänzt. Gestern habe ich zudem den bumblebee-indicator in den Installer integriert. Da das nur eine kleine Controbution war, erwähne ich das erst heute. (https://github.com/drnoa/bumblebee-installer)
+Eine kleine Anpassung des Readmes von gestern noch korrigiert und ein paar Kommentare im Script ergänzt. Gestern habe ich zudem den bumblebee-indicator in den Installer integriert. Da das nur eine kleine Contribution war, erwähne ich das erst heute. [Bumblebee-Installer](https://github.com/drnoa/bumblebee-installer)
 
 
 ### [Pascal Simon](https://github.com/psunix)
