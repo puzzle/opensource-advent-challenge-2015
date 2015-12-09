@@ -8,6 +8,10 @@ active: true
 ### [Thomas Philipona](https://github.com/phil-pona)
 Heute habe ich die Dokumentation vom [schemaspy](https://github.com/drnoa/schemaspy) aktualisiert und um die how to Build schemaspy erweiertern. Des Weiteren habe ich im schemaspy Projekt die Branches aufgeräumt. Neu ist der Master Branch der aktuelle HEAD.
 
-Zusätzlich habe ich die [Symfony2 Demo Applikation](https://github.com/symfony/symfony-demo) auf OpenShift 3 zum Laufen gebracht. Dafür musste das [sti-php Image](https://github.com/phil-pona/sti-php) entsprechend angepasst werden, das [OpenShift 3 Template](https://github.com/phil-pona/ose3-symfony2-ex) ist auch veröffentlicht. 
+Zusätzlich habe ich die [Symfony2 Demo Applikation](https://github.com/symfony/symfony-demo) auf OpenShift 3 zum Laufen gebracht. Dafür musste das [sti-php Image](https://github.com/phil-pona/sti-php) entsprechend angepasst werden, das [OpenShift 3 Template](https://github.com/phil-pona/ose3-symfony2-ex) ist auch veröffentlicht.
 Für die Bugs im sti-php image werde ich einen Pull Request eröffnen und meine Fixes einspielen lassen.
 
+### [Lorenz Bischof](https://github.com/lbischof)
+Heute habe ich meinen Repositories eine Lizenz gegeben. Ich habe mich für die [MIT](https://opensource.org/licenses/MIT) Lizenz entschieden, weil sie viel Freiheit erlaubt und jegliche Haftung ausschliesst.
+
+Mein [pull request](https://github.com/phil-matti/ipa-latex-template/pull/1) von gestern wurde gemerged.
