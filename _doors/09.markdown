@@ -8,4 +8,6 @@ active: true
 ### [Thomas Philipona](https://github.com/phil-pona)
 Heute habe ich die Dokumentation vom [schemaspy](https://github.com/drnoa/schemaspy) aktualisiert und um die how to Build schemaspy erweiertern. Des Weiteren habe ich im schemaspy Projekt die Branches aufgeräumt. Neu ist der Master Branch der aktuelle HEAD.
 
+Zusätzlich habe ich die [Symfony2 Demo Applikation](https://github.com/symfony/symfony-demo) auf OpenShift 3 zum Laufen gebracht. Dafür musste das [sti-php Image](https://github.com/phil-pona/sti-php) entsprechend angepasst werden, das [OpenShift 3 Template](https://github.com/phil-pona/ose3-symfony2-ex) ist auch veröffentlicht. 
+Für die Bugs im sti-php image werde ich einen Pull Request eröffnen und meine Fixes einspielen lassen.
 
