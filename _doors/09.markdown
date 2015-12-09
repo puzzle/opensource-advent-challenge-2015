@@ -18,3 +18,6 @@ Mein [pull request](https://github.com/phil-matti/ipa-latex-template/pull/1) von
 
 ### [Pascal Simon](https://github.com/psunix)
 [Cryptopus](https://github.com/puzzle/cryptopus): Es geht weiter mit Cryptopus. Heute habe ich damit begonnen den Style mehr Bootstrap-like zu gestalten. Ausserdem sehe ich noch einiges an Vereinfachungspotential. Ziel ist es die ganzen Views aufzuräumen. Die Änderungen sind auf dem v2-styling Branch da es noch einiges an Arbeit benötigt bis das Userinterface mit dem neuen Style brauchbar ist.
+
+### [Philipp Grogg](https://github.com/gro-gg)
+Refactoring des Java Profilers [modjprof](https://github.com/gro-gg/modjprof).
