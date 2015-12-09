@@ -21,3 +21,6 @@ Mein [pull request](https://github.com/phil-matti/ipa-latex-template/pull/1) von
 
 ### [Philipp Grogg](https://github.com/gro-gg)
 Refactoring des Java Profilers [modjprof](https://github.com/gro-gg/modjprof).
+
+### [Martin Gafner](https://github.com/mgafner)
+Ich habe mich in mein vor 5 Jahren gestartetes Projekt [fadecut](https://github.com/micressor/fadecut) wieder eingearbeitet und einige Issues erfasst. 
