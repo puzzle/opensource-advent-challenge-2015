@@ -1,7 +1,11 @@
 ---
 day: 	9
-title:	Es geht weiter...
-active: false
+title:	9 days in a row
+active: true
 ---
+
+
+### [Thomas Philipona](https://github.com/phil-pona)
+Heute habe ich die Dokumentation vom [schemaspy](https://github.com/drnoa/schemaspy) aktualisiert und um die how to Build schemaspy erweiertern. Des Weiteren habe ich im schemaspy Projekt die Branches aufgeräumt. Neu ist der Master Branch der aktuelle HEAD.
 
 
