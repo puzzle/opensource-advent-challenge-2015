@@ -7,7 +7,7 @@ Add your contributions in the file of the day in the _doors directory.
 ## Building the css
 
 * To edit CSS you can edit the less files.
-* Install less globally with `npm install -g less` or locally with `npm install less´ (if you install locally you need to set a path, see http://stackoverflow.com/questions/9069104/lessc-binary-not-available-after-installing-less-via-npm)
+* Install less globally with `npm install -g less` or locally with `npm install less` (if you install locally you need to set a path, see http://stackoverflow.com/questions/9069104/lessc-binary-not-available-after-installing-less-via-npm)
 * Compile Less to css with `npm run less`
 
 ## Credits
