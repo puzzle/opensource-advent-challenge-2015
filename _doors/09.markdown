@@ -31,3 +31,6 @@ Dabei habe ich gemerkt, dass ich ziemlich auf dem Holzweg war, und habe begonnen
 
 ### [Pascal Zumkehr](https://github.com/codez)
 [RAAR](https://github.com/radiorabe/raar) ist eine Applikation zum Verwalten und Durchstöbern eines Audio Archivs. Einen ersten Wurf des [Imports](https://github.com/radiorabe/raar/commit/4079167128b8eade69268670dd6cfd3954356807) implementiert.
+
+### [Daniel Tschan](https://github.com/dtschan)
+Einfaches Docker Hello World Beispiel implementiert welches mit dem Python SimpleHTTPServer eine statische Webseite ausliefert: <https://github.com/puzzle/openshift3-docker-hello>. Ich benutze dieses z.B. um OpenShift 3 custom Docker builders zu testen welche Dockerfile und Docker context nicht via Git beziehen.
