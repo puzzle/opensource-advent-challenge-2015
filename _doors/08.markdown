@@ -8,11 +8,8 @@ active: true
 ### [Thomas Philipona](https://github.com/phil-pona)
 Der [Pull Request](https://github.com/openshift/sti-wildfly/pull/65) von gestern wurde gemerged. Des Weiteren habe ich angefangen unser [OSE3 Docker Builder](https://github.com/puzzle/puzzle-ose3-docker-builder) in einem [Fork](https://github.com/phil-pona/puzzle-ose3-docker-builder) auf die Origin Version umzuschreiben.
 
-
-
 ### [Daniel Binggeli](https://github.com/drnoa)
 Eine kleine Anpassung des Readmes von gestern noch korrigiert und ein paar Kommentare im Script ergänzt. Gestern habe ich zudem den bumblebee-indicator in den Installer integriert. Da das nur eine kleine Contribution war, erwähne ich das erst heute. [Bumblebee-Installer](https://github.com/drnoa/bumblebee-installer)
-
 
 ### [Pascal Simon](https://github.com/psunix)
 [Cryptopus](https://github.com/puzzle/cryptopus): Ja auch am 8. Tag gibt es wieder einen Commit an Cryptopus. Diesmal sind es einige Controller Tests sowie das Auslagern der Business-Logik in die Models. Cheers.
@@ -22,3 +19,8 @@ Refactoring des Java Profilers [modjprof](https://github.com/gro-gg/modjprof).
 
 ### [Lorenz Bischof](https://github.com/lbischof)
 Cleanup und refactoring vom IPA Latex-Template. [pull request](https://github.com/phil-matti/ipa-latex-template/pull/1)
+
+### [Pascal Zumkehr](https://github.com/codez)
+[Pull Request](https://github.com/hitobito/hitobito/pull/15) von Hitobito bearbeitet.
+
+[RAAR](https://github.com/radiorabe/raar) ist eine Applikation zum Verwalten und Durchstöbern eines Audio Archivs. (Seed Daten](https://github.com/radiorabe/raar/commit/f5d36186963d00248dd8c71f9e048f84dcf765b5) für die Airtime Datenbank hinzugefügt.

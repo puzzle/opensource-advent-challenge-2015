@@ -28,3 +28,6 @@ Ich habe mich in mein vor 5 Jahren gestartetes Projekt [fadecut](https://github.
 ### [Max Burri](https://github.com/mburri)
 Nachdem ich einige materielle Dinge in die Open Source Welt entlassen hatte, habe ich mich jetzt wieder meinem [Projekt](https://github.com/mburri/break-out) gewidmet.
 Dabei habe ich gemerkt, dass ich ziemlich auf dem Holzweg war, und habe begonnen, meine Applikation umzubauen - wodurch jetzt alles einfacher wird. Im Moment ist aber alles ein bisschen ein durcheinander - aber die Challange dauert noch ein paar Tage an...
+
+### [Pascal Zumkehr](https://github.com/codez)
+[RAAR](https://github.com/radiorabe/raar) ist eine Applikation zum Verwalten und Durchstöbern eines Audio Archivs. Einen ersten Wurf des [Imports](https://github.com/radiorabe/raar/commit/4079167128b8eade69268670dd6cfd3954356807) implementiert.
