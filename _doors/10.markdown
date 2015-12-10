@@ -8,3 +8,6 @@ active: true
 ### [Thomas Philipona](https://github.com/phil-pona)
 Ich habe heute die Issues am [sti-php Image](https://github.com/phil-pona/sti-php) gefixed und einen entsprechenden [Pull Request](https://github.com/openshift/sti-php/pull/75) erstellt. Mal schauen, was der OpenShift-Bot dazu meint ;-)
 
+
+### [Janiss Binder](https://github.com/janissbinder)
+Ich habe heute im [Cryptopus](https://github.com/puzzle/cryptopus) ein feature implementiert, damit nur noch admins Teams löschen können.
