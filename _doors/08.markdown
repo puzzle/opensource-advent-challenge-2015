@@ -23,4 +23,4 @@ Cleanup und refactoring vom IPA Latex-Template. [pull request](https://github.co
 ### [Pascal Zumkehr](https://github.com/codez)
 [Pull Request](https://github.com/hitobito/hitobito/pull/15) von Hitobito bearbeitet.
 
-[RAAR](https://github.com/radiorabe/raar) ist eine Applikation zum Verwalten und Durchstöbern eines Audio Archivs. (Seed Daten](https://github.com/radiorabe/raar/commit/f5d36186963d00248dd8c71f9e048f84dcf765b5) für die Airtime Datenbank hinzugefügt.
+[RAAR](https://github.com/radiorabe/raar) ist eine Applikation zum Verwalten und Durchstöbern eines Audio Archivs. [Seed Daten](https://github.com/radiorabe/raar/commit/f5d36186963d00248dd8c71f9e048f84dcf765b5) für die Airtime Datenbank hinzugefügt.
