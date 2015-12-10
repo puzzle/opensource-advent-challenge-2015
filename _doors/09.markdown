@@ -14,7 +14,7 @@ Für die Bugs im sti-php image werde ich einen Pull Request eröffnen und meine 
 ### [Lorenz Bischof](https://github.com/lbischof)
 Heute habe ich meinen Repositories eine Lizenz gegeben. Ich habe mich für die [MIT](https://opensource.org/licenses/MIT) Lizenz entschieden, weil sie viel Freiheit erlaubt und jegliche Haftung ausschliesst.
 
-Mein [pull request](https://github.com/phil-matti/ipa-latex-template/pull/1) von gestern wurde gemerged.
+Mein [pull request](https://github.com/phil-matti/ipa-latex-template/pull/1) von gestern wurde gemerged. Paar kleine Rechtschreibfehler [korrigiert](https://github.com/drnoa/schemaspy/pull/5).
 
 ### [Pascal Simon](https://github.com/psunix)
 [Cryptopus](https://github.com/puzzle/cryptopus): Es geht weiter mit Cryptopus. Heute habe ich damit begonnen den Style mehr Bootstrap-like zu gestalten. Ausserdem sehe ich noch einiges an Vereinfachungspotential. Ziel ist es die ganzen Views aufzuräumen. Die Änderungen sind auf dem v2-styling Branch da es noch einiges an Arbeit benötigt bis das Userinterface mit dem neuen Style brauchbar ist.

@@ -11,3 +11,6 @@ Ich habe heute die Issues am [sti-php Image](https://github.com/phil-pona/sti-ph
 
 ### [Janiss Binder](https://github.com/janissbinder)
 Ich habe heute im [Cryptopus](https://github.com/puzzle/cryptopus) ein feature implementiert, damit nur noch admins Teams löschen können.
+
+### [Lorenz Bischof](https://github.com/lbischof)
+Damit mein [Dockercontainer](https://github.com/lbischof/respondcms-docker) einfach in die Produktion deployed werden kann, habe ich <xip.io> eingebaut. Dies ermöglicht Subdomains während der Entwicklung ohne DNS Änderungen.
