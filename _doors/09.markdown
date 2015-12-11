@@ -34,3 +34,6 @@ Dabei habe ich gemerkt, dass ich ziemlich auf dem Holzweg war, und habe begonnen
 
 ### [Daniel Tschan](https://github.com/dtschan)
 Einfaches Docker Hello World Beispiel implementiert welches mit dem Python SimpleHTTPServer eine statische Webseite ausliefert: <https://github.com/puzzle/openshift3-docker-hello>. Ich benutze dieses z.B. um OpenShift 3 custom Docker builders zu testen welche Dockerfile und Docker context nicht via Git beziehen.
+
+### [Philipp Gassmann](https://github.com/pgassmann)
+[Puppet Setup All-In-One](https://github.com/pgassmann/puppet-setup): [Support for Redhat osfamily](https://github.com/pgassmann/puppet-setup/commit/46d39aa02aa05760e4265098f2290f93d31e8855)
