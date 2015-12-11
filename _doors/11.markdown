@@ -8,3 +8,5 @@ active: true
 ### [Thomas Philipona](https://github.com/phil-pona)
 Heute habe ich den [schemaspy](https://github.com/drnoa/schemaspy) um einen TemplateService Test erweitert. Ziel ist es, die Testabdeckung zu erhöhen, damit wir anschliessend refactoren können.
 
+### [Oliver Gugger](https://github.com/guggero)
+Habe Version 0.0.3 von [ng-user-auth](https://github.com/puzzle/ng-user-auth) erstellt und das GIT-Repo von meinem eigenen zu dem von Puzzle ITC verschoben. Zudem habe ich mit einer Sample-/Demo-Applikation für das Modul begonnen.
