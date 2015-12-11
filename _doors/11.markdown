@@ -10,3 +10,7 @@ Heute habe ich den [schemaspy](https://github.com/drnoa/schemaspy) um einen Temp
 
 ### [Oliver Gugger](https://github.com/guggero)
 Habe Version 0.0.3 von [ng-user-auth](https://github.com/puzzle/ng-user-auth) erstellt und das GIT-Repo von meinem eigenen zu dem von Puzzle ITC verschoben. Zudem habe ich mit einer Sample-/Demo-Applikation für das Modul begonnen.
+
+### [Pascal Simon](https://github.com/psunix)
+[Cryptopus](https://github.com/puzzle/cryptopus): Es ging weiter mit dem Styling des UIs. Heute war das Login sowie die Navigationsbar an der Reihe.
+
