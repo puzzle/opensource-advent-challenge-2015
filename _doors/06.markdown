@@ -34,3 +34,6 @@ OpenGL Beispiel implementiert, wie man eine Textur als Hintergrund des ganzen Fe
 
 ### [Philipp Grogg](https://github.com/gro-gg)
 Dokumentation des Java Profilers [modjprof](https://github.com/gro-gg/modjprof) ergänzt.
+
+### [Philipp Gassmann](https://github.com/pgassmann)
+[Cryptopus](https://github.com/puzzle/cryptopus): Feature request [Encrypted Notes](https://github.com/puzzle/cryptopus/issues/32)
