@@ -1,7 +1,9 @@
 ---
 day: 	11
-title:	Es geht weiter...
-active: false
----
+title:	Changing IT for the better.
+active: true
 
+
+### [Thomas Philipona](https://github.com/phil-pona)
+Heute habe ich den [schemaspy](https://github.com/drnoa/schemaspy) um einen TemplateService Test erweitert. Ziel ist es, die Testabdeckung zu erhöhen, damit wir anschliessend refactoren können.
 
