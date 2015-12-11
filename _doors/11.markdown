@@ -14,3 +14,5 @@ Habe Version 0.0.3 von [ng-user-auth](https://github.com/puzzle/ng-user-auth) er
 ### [Pascal Simon](https://github.com/psunix)
 [Cryptopus](https://github.com/puzzle/cryptopus): Es ging weiter mit dem Styling des UIs. Heute war das Login sowie die Navigationsbar an der Reihe.
 
+### [Lorenz Bischof](https://github.com/lbischof)
+Dokumentieren wie man Cryptopus in einem Docker Container startet. [pull request](https://github.com/puzzle/cryptopus/pull/33)
