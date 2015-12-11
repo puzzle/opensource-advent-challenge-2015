@@ -25,3 +25,7 @@ Heute habe ich im Cryptopus einen Bug behoben, damit die Teams wieder angezeigt 
 
 ### [Lorenz Bischof](https://github.com/lbischof)
 Ich habe heute versucht die Berechtigungen auf einem Dockervolume zu ändern. Die schwierigkeit ist, dies Host unabhängig zu machen. Ich bin mit der aktuellen Lösung noch nicht zufrieden und werde es in den nächsten Tagen noch überarbeiten. Zusätzlich habe ich [nginx-proxy](https://github.com/jwilder/nginx-proxy) ausprobiert und anfänglich eingebaut. [respondcms-docker](https://github.com/lbischof/respondcms-docker)
+
+### [Philipp Gassmann](https://github.com/pgassmann)
+Letsencrypt Module: Info an Alternative: https://github.com/danzilio/puppet-letsencrypt/issues/4 &
+Feedback Issue für mein Modul: https://github.com/pgassmann/puppet-letsencrypt/issues/1
