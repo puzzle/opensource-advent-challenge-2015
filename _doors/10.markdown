@@ -19,4 +19,4 @@ Damit mein [Dockercontainer](https://github.com/lbischof/respondcms-docker) einf
 [Cryptopus](https://github.com/puzzle/cryptopus): Heute habe ich den Team Seeder gefixt.
 
 ### [Philipp Gassmann](https://github.com/pgassmann)
-[LXD Container "Hypervisor"](https://linuxcontainers.org/lxd): Mail mit Feedback und Fragen an Entwickler Stéphane Graber und dann zwei Issues erstellt: [lxc enter <container name>](https://github.com/lxc/lxd/issues/1395) und [lxc edit, push and pull on stopped containers](https://github.com/lxc/lxd/issues/1394)
+[LXD Container "Hypervisor"](https://linuxcontainers.org/lxd): Mail mit Feedback und Fragen an Entwickler Stéphane Graber und dann zwei Issues erstellt: [lxc enter container name](https://github.com/lxc/lxd/issues/1395) und [lxc edit push and pull on stopped containers](https://github.com/lxc/lxd/issues/1394)
