@@ -14,5 +14,6 @@ Heute habe ich wieder an [fadecut](https://github.com/micressor/fadecut) weiterg
 ### [Thomas Philipona](https://github.com/phil-pona)
 Heute habe ich den [schemaspy](https://github.com/drnoa/schemaspy) um weitere Tests erweitert. So können wir nun die MainIndex Seite refactoren.
 
-
+### [Oliver Gugger](https://github.com/guggero)
+Habe Version 0.0.4 von [ng-user-auth](https://github.com/puzzle/ng-user-auth) erstellt: Modul konfigurierbar gemacht.
  
