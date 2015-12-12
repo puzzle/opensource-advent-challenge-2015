@@ -16,3 +16,6 @@ Habe Version 0.0.3 von [ng-user-auth](https://github.com/puzzle/ng-user-auth) er
 
 ### [Lorenz Bischof](https://github.com/lbischof)
 Dokumentieren wie man Cryptopus in einem Docker Container startet. [pull request](https://github.com/puzzle/cryptopus/pull/33)
+
+### [Martin Gafner](https://github.com/mgafner)
+Ich konnte heute selber nichts contributen. Aber dafür hat der Debian Package Manager [micressor](https://github.com/micressor) in den letzten zwei Tagen ein paar Issues von [fadecut](https://github.com/micressor/fadecut) kommentiert und eines konnte er sogar schliessen. Ausserdem hat er das Testing-Framework erweitert. Wir haben uns abgesprochen dass er sich hauptsächlich um die Tests und die Debian Packaging Themen kümmert, während ich weiter an gewünschten Features arbeite. 
