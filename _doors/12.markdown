@@ -1,6 +1,6 @@
 ---
 day: 	12
-title:	Es geht weiter...
+title:	Es ist Halbzeit ;-)
 active: true
 ---
 
