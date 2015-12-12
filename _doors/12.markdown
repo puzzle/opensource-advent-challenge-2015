@@ -6,14 +6,23 @@ active: true
 
 ### [Martin Gafner](https://github.com/mgafner)
 Heute habe ich wieder an [fadecut](https://github.com/micressor/fadecut) weitergearbeitet:
-* Ich habe weitere Issues erfasst und ein wenig sortiert, Labels umbenannt und den Milestone für Version 0.2.0 erfasst. 
+* Ich habe weitere Issues erfasst und ein wenig sortiert, Labels umbenannt und den Milestone für Version 0.2.0 erfasst.
 * Auf Github habe ich eine Organisation für fadecut erstellt [Organisation Fadecut](https://github.com/fadecut)
 * Eine erste Version für ein Logo erstellt
 * Eine Funktion erstellt, die das Auflisten aller vorhandenen fadecut Profile ermöglicht
- 
+
 ### [Thomas Philipona](https://github.com/phil-pona)
 Heute habe ich den [schemaspy](https://github.com/drnoa/schemaspy) um weitere Tests erweitert. So können wir nun die MainIndex Seite refactoren.
 
 ### [Oliver Gugger](https://github.com/guggero)
 Habe Version 0.0.4 von [ng-user-auth](https://github.com/puzzle/ng-user-auth) erstellt: Modul konfigurierbar gemacht.
- 
+
+
+### [Mathis Hofer](https://github.com/hupf)
+
+Habe am [Hologram Github Theme](https://github.com/wearecube/hologram-github-theme) gearbeitet:
+
+* Fix für eine überfällige [CSS Issue](https://github.com/wearecube/hologram-github-theme/issues/3) gepusht.
+* Das [Hologram Github Theme Example](https://github.com/wearecube/hologram-github-theme-example) (Beispielprojekt, welches das Hologram Github Theme für den Styleguide verwendet) von Grunt auf NPM-only Build umgestellt.
+* READMEs der beiden Repositories ergänzt.
+* Version 0.1.4 des Hologram Github Theme released und zusätzlich als [NPM Package](https://www.npmjs.com/package/hologram-github-theme) zur Verfügung gestellt (bisher gab es nur ein Bower Package).
