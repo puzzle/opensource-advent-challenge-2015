@@ -5,7 +5,7 @@ active: false
 ---
 
 ### [Martin Gafner](https://github.com/mgafner)
-[fadecut](https://github.com/micressor/fadecut): 
+Heute habe ich wieder an [fadecut](https://github.com/micressor/fadecut) weitergearbeitet:
 * Ich habe weitere Issues erfasst und ein wenig sortiert, Labels umbenannt und den Milestone für Version 0.2.0 erfasst. 
 * Auf Github habe ich eine Organisation für fadecut erstellt [Organisation Fadecut](https://github.com/fadecut)
 * Eine erste Version für ein Logo erstellt
