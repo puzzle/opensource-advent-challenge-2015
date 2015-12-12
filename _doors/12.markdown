@@ -1,7 +1,7 @@
 ---
 day: 	12
 title:	Es geht weiter...
-active: false
+active: true
 ---
 
 ### [Martin Gafner](https://github.com/mgafner)
@@ -10,4 +10,9 @@ Heute habe ich wieder an [fadecut](https://github.com/micressor/fadecut) weiterg
 * Auf Github habe ich eine Organisation für fadecut erstellt [Organisation Fadecut](https://github.com/fadecut)
 * Eine erste Version für ein Logo erstellt
 * Eine Funktion erstellt, die das Auflisten aller vorhandenen fadecut Profile ermöglicht
+ 
+### [Thomas Philipona](https://github.com/phil-pona)
+Heute habe ich den [schemaspy](https://github.com/drnoa/schemaspy) um weitere Tests erweitert. So können wir nun die MainIndex Seite refactoren.
+
+
  
