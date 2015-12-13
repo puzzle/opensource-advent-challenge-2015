@@ -1,7 +1,9 @@
 ---
 day: 	13
-title:	Es geht weiter...
-active: false
+title:	Tag für Tag, Türchen für Türchen, Grittibänz für Grittibänz ... es geht weiter
+active: true
 ---
 
+### [Daniel Binggeli](https://github.com/drnoa)
+Ich habe heute den [schemaspy](https://github.com/drnoa/schemaspy) noch um eine weitere Prüfung in den Tests erweitert. So können wir nun zusätzlich auch die die Tabellen Seite refactoren und noch fertig mit freemaker templates umbauen.
 
