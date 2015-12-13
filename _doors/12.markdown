@@ -26,3 +26,7 @@ Habe am [Hologram Github Theme](https://github.com/wearecube/hologram-github-the
 * Das [Hologram Github Theme Example](https://github.com/wearecube/hologram-github-theme-example) (Beispielprojekt, welches das Hologram Github Theme für den Styleguide verwendet) von Grunt auf NPM-only Build umgestellt.
 * READMEs der beiden Repositories ergänzt.
 * Version 0.1.4 des Hologram Github Theme released und zusätzlich als [NPM Package](https://www.npmjs.com/package/hologram-github-theme) zur Verfügung gestellt (bisher gab es nur ein Bower Package).
+* 
+
+### [Pascal Simon](https://github.com/psunix)
+[Cryptopus](https://github.com/puzzle/cryptopus): Heute hat Cryptopus ein neues Logo erhalten.
