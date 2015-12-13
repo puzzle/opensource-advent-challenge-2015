@@ -21,3 +21,7 @@ Heute habe ich die erste Version von [puzzle-laptop-bootstrap](https://github.co
 
 ### [Philipp Matti](https://github.com/phil-matti)
 Ich habe heute das [ipa-latex-template](https://github.com/phil-matti/ipa-latex-template) gefixt, es gab einen import Error + Readme erweitert für die Installation unter Ubuntu 14.04 und Windows 7.
+
+
+### [Pascal Simon](https://github.com/psunix)
+[Cryptopus](https://github.com/puzzle/cryptopus): So, Cryptopus in neuem Kleid. Bootstrap Tabellen und Form Items.
