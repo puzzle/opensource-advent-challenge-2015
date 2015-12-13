@@ -14,3 +14,6 @@ Weitere commits an [fadecut](https://github.com/micressor/fadecut):
 * in der man page das neue Feature zum Auflisten der fadecut profile beschrieben (option -l)
  
 
+### [Thomas Philipona](https://github.com/phil-pona)
+Heute habe ich im [schemaspy](https://github.com/drnoa/schemaspy) einen Integration Test basierend auf einer H2 DB gebaut. Mit dem können wir nun einfach ganze Reportgenerations testen und entsprechend die einzelnen Bereiche in den Reports anpassen, resp. erweitern. Zusätzlich habe ich die Table Page noch einige Bereiche informationen erweitert.
+
