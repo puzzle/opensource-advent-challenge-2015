@@ -18,3 +18,6 @@ Heute habe ich im [schemaspy](https://github.com/drnoa/schemaspy) einen Integrat
 
 ### [Lorenz Bischof](https://github.com/lbischof)
 Heute habe ich die erste Version von [puzzle-laptop-bootstrap](https://github.com/lbischof/puzzle-laptop-bootstrap) gepusht.
+
+### [Philipp Matti](https://github.com/phil-matti)
+Ich habe heute das [ipa-latex-template](https://github.com/phil-matti/ipa-latex-template) gefixt, es gab einen import Error + Readme erweitert für die Installation unter Ubuntu 14.04 und Windows 7.
