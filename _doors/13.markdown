@@ -7,3 +7,10 @@ active: true
 ### [Daniel Binggeli](https://github.com/drnoa)
 Ich habe heute den [schemaspy](https://github.com/drnoa/schemaspy) noch um eine weitere Prüfung in den Tests erweitert. So können wir nun zusätzlich auch die die Tabellen Seite refactoren und noch fertig mit freemaker templates umbauen.
 
+### [Martin Gafner](https://github.com/mgafner)
+Weitere commits an [fadecut](https://github.com/micressor/fadecut):
+
+* verbesserte Fehlerbehandlung des streamripper sub-prozesses [fixed issue #25](https://github.com/micressor/fadecut/issues/25)
+* in der man page das neue Feature zum Auflisten der fadecut profile beschrieben (option -l)
+ 
+
