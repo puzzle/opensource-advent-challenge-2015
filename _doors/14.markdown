@@ -1,7 +1,8 @@
 ---
 day: 	14
 title:	Es geht weiter...
-active: false
+active: true
 ---
 
-
+### [Sandro Beffa](https://github.com/sandroBeffa)
+[backupcheck_ng](https://github.com/sandroBeffa/amanda_restore_check): Released backupcheck_ng, a python script which does automatic backup restore checking
