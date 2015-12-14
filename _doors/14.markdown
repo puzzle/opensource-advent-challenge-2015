@@ -9,3 +9,6 @@ active: true
 
 ### [Thomas Philipona](https://github.com/phil-pona)
 Heute habe ich die ConstraintsPage im [schemaspy](https://github.com/drnoa/schemaspy) mit Freemarker Templates implementiert und die Freemarker Version auf 2.3.23 aktualisiert. Zudem habe ich im Integration Test von gestern weitere Checks implementiert.
+
+### [Pascal Simon](https://github.com/psunix)
+[Cryptopus](https://github.com/puzzle/cryptopus): Mit meinem heutigen Commit ist es nicht mehr möglich als Root ein Team zu erstellen mit dem Flag noroot. 
