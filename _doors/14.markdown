@@ -1,8 +1,11 @@
 ---
 day: 	14
-title:	Es geht weiter...
+title:	Montag ist ein contributionsreicher Tag ;-)
 active: true
 ---
 
 ### [Sandro Beffa](https://github.com/sandroBeffa)
 [backupcheck_ng](https://github.com/sandroBeffa/amanda_restore_check): Released backupcheck_ng, a python script which does automatic backup restore checking
+
+### [Thomas Philipona](https://github.com/phil-pona)
+Heute habe ich die ConstraintsPage im [schemaspy](https://github.com/drnoa/schemaspy) mit Freemarker Templates implementiert und die Freemarker Version auf 2.3.23 aktualisiert. Zudem habe ich im Integration Test von gestern weitere Checks implementiert.
