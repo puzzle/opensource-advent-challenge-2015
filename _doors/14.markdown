@@ -12,3 +12,6 @@ Heute habe ich die ConstraintsPage im [schemaspy](https://github.com/drnoa/schem
 
 ### [Pascal Simon](https://github.com/psunix)
 [Cryptopus](https://github.com/puzzle/cryptopus): Mit meinem heutigen Commit ist es nicht mehr möglich als Root ein Team zu erstellen mit dem Flag noroot. 
+
+### [Martin Gafner](https://github.com/mgafner)
+Das fadecut repo ist jetzt in die neue Organisation [fadecut](https://github.com/fadecut/fadecut) migriert. Und ich habe ein gewünschtes Features implementiert. Ab jetzt werden die Dateien bei einem erneuten Encodieren mit der gleichen Bitrate wie das ursprüngliche File codiert. Damit ist [issue #19](https://github.com/micressor/fadecut/issues/19) erledigt. 
