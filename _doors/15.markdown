@@ -14,3 +14,6 @@ Heute habe ich die OrphansPage im [schemaspy](https://github.com/drnoa/schemaspy
 
 ### [Martin Gafner](https://github.com/mgafner)
 Heute habe ich 6 kleine Bugs von [fadecut](https://github.com/fadecut/fadecut) repariert.
+
+### [Lorenz Bischof](https://github.com/lbischof)
+Heute habe ich beim [IPA Latex-Template](https://github.com/phil-matti/ipa-latex-template) ein Dockerfile mit der aktuellen Texlive-Version hinzugefügt. Zusätzlich habe ich das Packet für Codeblöcke ausgetauscht. [Pull Request](https://github.com/phil-matti/ipa-latex-template/pull/5)
