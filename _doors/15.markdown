@@ -1,8 +1,10 @@
 ---
 day: 	15
-title:	Es geht weiter...
+title:	156. Geburtstag des Esperanto Erfinders
 active: true
 ---
+
+Gemäss (WDR)[http://www1.wdr.de/themen/archiv/stichtag/stichtag3826.html] ist vor 156 Jahren der Esperanto-Begründer Ludwik Zamenhof geboren. Er hat Esperanto erfunden und auf alle Rechte an seinem Werk verzichtet. Er forderte seine Anhänger zur freien Nutzung, Veröffentlichung und Fortentwicklung der Sprache auf – ein Konzept, das im Computerzeitalter als "open source" erfolgreich genutzt wird. ;-)
 
 ### [Pascal Simon](https://github.com/psunix)
 [Profile](https://github.com/psunix/profile): Anstelle eines Commits für Cryptopus gibt es heute mal einen kleinen Bash Script. Mit dem Befehl 'cdg' wechselt man in das Haupt-Verzeichnis des aktuellen Git-Repos.
@@ -10,3 +12,5 @@ active: true
 ### [Thomas Philipona](https://github.com/phil-pona)
 Heute habe ich die OrphansPage im [schemaspy](https://github.com/drnoa/schemaspy) mit Freemarker Templates implementiert.
 
+### [Martin Gafner](https://github.com/mgafner)
+Heute habe ich 6 kleine Bugs von [fadecut](https://github.com/fadecut/fadecut) repariert.
