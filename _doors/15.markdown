@@ -4,4 +4,5 @@ title:	Es geht weiter...
 active: false
 ---
 
-
+### [Pascal Simon](https://github.com/psunix)
+[Cryptopus](https://github.com/psunix/profile): Anstelle eines Commits für Cryptopus gibt es heute mal einen kleinen Bash Script. Mit dem Befehl 'cdg' wechselt man in das Haupt-Verzeichnis des aktuellen Git-Repos.
