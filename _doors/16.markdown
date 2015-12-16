@@ -7,4 +7,8 @@ active: true
 [Lorenz Bischof](https://github.com/lbischof)
 Ich habe das [Dashing](dashing.io)-Widget, welches die aktuelle Aaretemperatur anzeigt, veröffentlicht. [dashing-aare-temperatur](https://github.com/lbischof/dashing-aare-temperatur)
 
+### [Thomas Philipona](https://github.com/phil-pona)
+Heute habe ich auf der OrphansPage im [schemaspy](https://github.com/drnoa/schemaspy) ein Template Fehler geflickt und ensprechend die Tests erweitert.
+
+
 
