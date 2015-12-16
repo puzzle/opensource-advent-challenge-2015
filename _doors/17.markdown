@@ -1,7 +1,9 @@
 ---
 day: 	17
-title:	Es geht weiter...
+title: "The beaver is out of detox"
 active: false
 ---
+12 years ago, on december 17 2003, the Linux Kernel 2.6.0 was released. See the [announcement](http://lkml.iu.edu/hypermail/linux/kernel/0312.2/0348.html) written by Linus Torvalds.
+
 
 
