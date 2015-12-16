@@ -13,4 +13,5 @@ Heute habe ich auf der OrphansPage im [schemaspy](https://github.com/drnoa/schem
 ### [Pascal Simon](https://github.com/psunix)
 [Cryptopus](https://github.com/puzzle/cryptopus): Message Flash in der View wieder eingebaut. Zwei Bugs beim Erstellen eines Teams gefixt.
 
-
+### [Martin Gafner](https://github.com/mgafner)
+Issues von [fadecut](https://github.com/fadecut/fadecut) erfasst und kommentiert. Am -quiet und -verbose mode gearbeitet.
