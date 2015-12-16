@@ -18,5 +18,10 @@ Heute habe ich 6 kleine Bugs von [fadecut](https://github.com/fadecut/fadecut) r
 ### [Lorenz Bischof](https://github.com/lbischof)
 Heute habe ich beim [IPA Latex-Template](https://github.com/phil-matti/ipa-latex-template) ein Dockerfile mit der aktuellen Texlive-Version hinzugefügt. Zusätzlich habe ich das Packet für Codeblöcke ausgetauscht. [Pull Request](https://github.com/phil-matti/ipa-latex-template/pull/5)
 
+
+
 ### [Philipp Matti](https://github.com/phil-matti)
 Optimierung des Dockerfiles von 7 auf 3 build-steps, so werden nur 3 Subcontainer generiert was den Buildprozess erheblich verkürzt beim [IPA Latex-Template](https://github.com/phil-matti/ipa-latex-template).
+
+### [Peter Mumenthaler](https://github.com/pmumenthaler)
+Ich habe den Initialen Commit meines rudimentären Photo Sortierungsskript [Sortmypics](https://github.com/puzzle/sortmypics)  hinzugefügt. 
