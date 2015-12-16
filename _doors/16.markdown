@@ -10,5 +10,7 @@ Ich habe das [Dashing](http://dashing.io)-Widget, welches die aktuelle Aaretempe
 ### [Thomas Philipona](https://github.com/phil-pona)
 Heute habe ich auf der OrphansPage im [schemaspy](https://github.com/drnoa/schemaspy) ein Template Fehler geflickt und ensprechend die Tests erweitert.
 
+### [Pascal Simon](https://github.com/psunix)
+[Cryptopus](https://github.com/puzzle/cryptopus): Message Flash in der View wieder eingebaut. Zwei Bugs beim Erstellen eines Teams gefixt.
 
 
