@@ -4,7 +4,7 @@ title:	Es geht weiter...
 active: true
 ---
 
-[Lorenz Bischof](https://github.com/lbischof)
+### [Lorenz Bischof](https://github.com/lbischof)
 Ich habe das [Dashing](dashing.io)-Widget, welches die aktuelle Aaretemperatur anzeigt, veröffentlicht. [dashing-aare-temperatur](https://github.com/lbischof/dashing-aare-temperatur)
 
 ### [Thomas Philipona](https://github.com/phil-pona)
