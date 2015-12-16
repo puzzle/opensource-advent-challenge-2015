@@ -5,5 +5,6 @@ active: false
 ---
 12 years ago, on december 17 2003, the Linux Kernel 2.6.0 was released. See the [announcement](http://lkml.iu.edu/hypermail/linux/kernel/0312.2/0348.html) written by Linus Torvalds.
 
-
+### [Pascal Simon](https://github.com/psunix)
+[Cryptopus](https://github.com/puzzle/cryptopus): Message Flash in der View wieder eingebaut. Zwei Bugs beim Erstellen eines Teams gefixt.
 
