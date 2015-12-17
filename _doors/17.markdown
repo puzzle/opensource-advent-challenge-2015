@@ -7,3 +7,6 @@ active: true
 
 ### [Lorenz Bischof](https://github.com/lbischof)
 Ich habe das [dashing-zenoss](https://github.com/lbischof/dashing-zenoss) Widget veröffentlicht.
+
+### [Thomas Philipona](https://github.com/phil-pona)
+Heute habe ich den Integration Test des [schemaspy](https://github.com/drnoa/schemaspy)s erweitert, dass man neu das generierte Resultat auf Filebasis vergleichen kann So kann sichergestellt werden, dass die Reports beim Refactoring inhaltlich gleich bleiben.
