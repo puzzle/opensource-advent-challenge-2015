@@ -14,3 +14,7 @@ Heute habe ich die Testdatenbank im Projekt [schemaspy](https://github.com/drnoa
 
 ### [Lorenz Bischof](https://github.com/lbischof)
 [IPA Latex-Template](https://github.com/phil-matti/ipa-latex-template): Ich habe die Dokumentation ergänzt und ein bisschen umstrukturiert. Auch das Dockerfile ist jetzt übersichtlicher. [Pull Request](https://github.com/phil-matti/ipa-latex-template/pull/7)
+
+### [Martin Gafner](https://github.com/mgafner)
+Issues #11 und #31 von [fadecut](https://github.com/fadecut/fadecut) bearbeitet (quiet und verbose mode). Der getopt loop verbessert und das Initialisieren zum Start des Programms verbessert.
+
