@@ -11,3 +11,6 @@ Heute habe ich die Testdatenbank im Projekt [schemaspy](https://github.com/drnoa
 
 ### [Pascal Simon](https://github.com/psunix)
 [Profile](https://github.com/puzzle/profile): Heute habe ich meine i3wm config überarbeitet und auf Github zur Verfügung gestellt. Mein Default Bash Include File habe ich um zwei weitere Befehle erweitert.
+
+### [Lorenz Bischof](https://github.com/lbischof)
+[IPA Latex-Template](https://github.com/phil-matti/ipa-latex-template): Ich habe die Dokumentation ergänzt und ein bisschen umstrukturiert. Auch das Dockerfile ist jetzt übersichtlicher. [Pull Request](https://github.com/phil-matti/ipa-latex-template/pull/7)
