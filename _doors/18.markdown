@@ -8,3 +8,6 @@ active: true
 ### [Thomas Philipona](https://github.com/phil-pona)
 Heute habe ich die Testdatenbank im Projekt [schemaspy](https://github.com/drnoa/schemaspy) um eine View erweitert und dies entsprechend im Integration Test angepasst. Des Weiteren habe ich die beiden Templates InsertionOrder und die DeletionOrder als Freemarker Templates umgesetzt und entsprechend eingebaut.
 
+
+### [Pascal Simon](https://github.com/psunix)
+[Profile](https://github.com/puzzle/profile): Heute habe ich meine i3wm config überarbeitet und auf Github zur Verfügung gestellt. Mein Default Bash Include File habe ich um zwei weitere Befehle erweitert.
