@@ -10,3 +10,6 @@ Ich habe das [dashing-zenoss](https://github.com/lbischof/dashing-zenoss) Widget
 
 ### [Thomas Philipona](https://github.com/phil-pona)
 Heute habe ich den Integration Test des [schemaspy](https://github.com/drnoa/schemaspy)s erweitert, dass man neu das generierte Resultat auf Filebasis vergleichen kann So kann sichergestellt werden, dass die Reports beim Refactoring inhaltlich gleich bleiben.
+
+### [Pascal Simon](https://github.com/psunix)
+[Cryptopus](https://github.com/puzzle/cryptopus): Team Controller Tests updated.
