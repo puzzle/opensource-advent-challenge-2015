@@ -1,7 +1,10 @@
 ---
 day: 	18
-title:	Es geht weiter...
-active: false
+title:	Am Freitag danach ;-)
+active: true
 ---
 
+
+### [Thomas Philipona](https://github.com/phil-pona)
+Heute habe ich die Testdatenbank im Projekt [schemaspy](https://github.com/drnoa/schemaspy) um eine View erweitert und dies entsprechend im Integration Test angepasst. Des Weiteren habe ich die beiden Templates InsertionOrder und die DeletionOrder als Freemarker Templates umgesetzt und entsprechend eingebaut.
 
