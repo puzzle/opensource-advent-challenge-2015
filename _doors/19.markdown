@@ -14,3 +14,6 @@ Dokumentation zu [ng-user-auth](https://github.com/puzzle/ng-user-auth) hinzugef
 
 ### [Pascal Simon](https://github.com/psunix)
 [Cryptopus](https://github.com/puzzle/cryptopus): Bei der aktuellen V2 Version hat sich ein Bug eingeschlichen das keine Teammembers mehr angezeigt werden. Fixed :)
+
+### [Martin Gafner](https://github.com/mgafner)
+an der logging Funktion von [fadecut](https://github.com/fadecut/fadecut) gearbeitet. Da ist noch etwas Baustelle... immerhin wieder etwas verbessert.
