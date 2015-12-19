@@ -6,5 +6,5 @@ active: true
 
 
 ### [Thomas Philipona](https://github.com/phil-pona)
-Heute habe ich die Testdatenbank im Projekt [schemaspy](https://github.com/drnoa/schemaspy) um eine Function erweitert und dies entsprechend im Integration Test angepasst. 
-Zusätzlich wurde mein [Issue](https://github.com/openshift/sti-php/issues/73) commentiert und als PR eingegeben. 
+Heute habe ich die Testdatenbank im Projekt [schemaspy](https://github.com/drnoa/schemaspy) um Functions erweitert und dies entsprechend im Integration Test angepasst. 
+Zusätzlich wurde mein [Issue](https://github.com/openshift/sti-php/issues/73) kommentiert und als PR eingegeben. 
