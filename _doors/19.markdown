@@ -8,3 +8,6 @@ active: true
 ### [Thomas Philipona](https://github.com/phil-pona)
 Heute habe ich die Testdatenbank im Projekt [schemaspy](https://github.com/drnoa/schemaspy) um Functions erweitert und dies entsprechend im Integration Test angepasst. 
 Zusätzlich wurde mein [Issue](https://github.com/openshift/sti-php/issues/73) kommentiert und als PR eingegeben. 
+
+### [Oliver Gugger](https://github.com/guggero)
+Dokumentation zu [ng-user-auth](https://github.com/puzzle/ng-user-auth) hinzugefügt und Version 0.1.0 released!
