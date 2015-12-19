@@ -1,7 +1,10 @@
 ---
 day: 	19
 title:	Es geht weiter...
-active: false
+active: true
 ---
 
 
+### [Thomas Philipona](https://github.com/phil-pona)
+Heute habe ich die Testdatenbank im Projekt [schemaspy](https://github.com/drnoa/schemaspy) um eine Function erweitert und dies entsprechend im Integration Test angepasst. 
+Zusätzlich wurde mein [Issue](https://github.com/openshift/sti-php/issues/73) commentiert und als PR eingegeben. 
