@@ -1,6 +1,6 @@
 ---
 day: 	19
-title:	Es geht weiter...
+title:	Leise rieseln die Commits ...
 active: true
 ---
 
@@ -11,3 +11,6 @@ Zusätzlich wurde mein [Issue](https://github.com/openshift/sti-php/issues/73) k
 
 ### [Oliver Gugger](https://github.com/guggero)
 Dokumentation zu [ng-user-auth](https://github.com/puzzle/ng-user-auth) hinzugefügt und Version 0.1.0 released!
+
+### [Pascal Simon](https://github.com/psunix)
+[Cryptopus](https://github.com/puzzle/cryptopus): Bei der aktuellen V2 Version hat sich ein Bug eingeschlichen das keine Teammembers mehr angezeigt werden. Fixed :)
