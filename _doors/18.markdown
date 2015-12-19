@@ -18,3 +18,5 @@ Heute habe ich die Testdatenbank im Projekt [schemaspy](https://github.com/drnoa
 ### [Martin Gafner](https://github.com/mgafner)
 Issues #11 und #31 von [fadecut](https://github.com/fadecut/fadecut) bearbeitet (quiet und verbose mode). Den getopt loop verbessert und das Initialisieren zum Start des Programms verbessert.
 
+### [Oliver Gugger](https://github.com/guggero)
+Version 0.0.5 von [ng-user-auth](https://github.com/puzzle/ng-user-auth) fertig gestellt: Beispiel-Applikation komplettiert, Testabdeckung verbessert, mehr Konfigurationsmöglichkeiten eingebaut und generelles Cleanup.
