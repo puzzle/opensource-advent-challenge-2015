@@ -1,7 +1,9 @@
 ---
 day: 	20
-title:	Es geht weiter...
-active: false
+title:	Advent-Commits
+active: true
 ---
 
+### [Martin Gafner](https://github.com/mgafner)
+heute habe ich die Metadaten des Cryptopus Projektes auf [sourceforge](https://sourceforge.net/projects/cryptopus/) aktualisiert. Nun müsste noch der Link in der Description im github repo aktualisiert werden [Issue #31](https://github.com/puzzle/cryptopus/issues/34)
 
