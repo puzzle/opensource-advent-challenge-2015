@@ -12,3 +12,6 @@ Die Columns Page des [schemaspy](https://github.com/drnoa/schemaspy)s wird nun a
 
 ### [Pascal Simon](https://github.com/psunix)
 [Cryptopus](https://github.com/puzzle/cryptopus): Neuen Footer eingefügt und Flash Message Div auf fixed geändert.
+
+### [Philipp Matti](https://github.com/phil-matti)
+[server-names](https://github.com/phil-matti/server-names): Wenn man eine neue Serverfarm aufbaut benötigt man auch ein paar Namen, pull requests welcome.
