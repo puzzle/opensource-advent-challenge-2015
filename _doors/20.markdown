@@ -7,3 +7,7 @@ active: true
 ### [Martin Gafner](https://github.com/mgafner)
 heute habe ich die Metadaten des Cryptopus Projektes auf [sourceforge](https://sourceforge.net/projects/cryptopus/) aktualisiert. Nun müsste noch der Link in der Description im github repo aktualisiert werden [Issue #31](https://github.com/puzzle/cryptopus/issues/34)
 
+### [Thomas Philipona](https://github.com/phil-pona)
+Die Columns Page des [schemaspy](https://github.com/drnoa/schemaspy)s wird nun auch mittels Freemarker Template generiert. Zusätzlich wurde die Legende als Komponente definiert und auf der Tables Seite integriert.
+
+
