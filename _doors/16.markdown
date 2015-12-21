@@ -15,3 +15,6 @@ Heute habe ich auf der OrphansPage im [schemaspy](https://github.com/drnoa/schem
 
 ### [Martin Gafner](https://github.com/mgafner)
 Issues von [fadecut](https://github.com/fadecut/fadecut) erfasst und kommentiert. Am -quiet und -verbose mode gearbeitet.
+
+### [Pascal Zumkehr](https://github.com/codez)
+[RAAR](https://github.com/radiorabe/raar) ist eine Applikation zum Verwalten und Durchstöbern eines Audio Archivs. Weiter am [Import](https://github.com/radiorabe/raar/commit/00f3458946a4aafd850d64ffb4f6e047b6e16589) gearbeitet.

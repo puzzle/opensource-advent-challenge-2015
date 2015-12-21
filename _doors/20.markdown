@@ -15,3 +15,6 @@ Die Columns Page des [schemaspy](https://github.com/drnoa/schemaspy)s wird nun a
 
 ### [Philipp Matti](https://github.com/phil-matti)
 [server-names](https://github.com/phil-matti/server-names): Wenn man eine neue Serverfarm aufbaut benötigt man auch ein paar Namen, pull requests welcome.
+
+### [Pascal Zumkehr](https://github.com/codez)
+[RAAR](https://github.com/radiorabe/raar) ist eine Applikation zum Verwalten und Durchstöbern eines Audio Archivs. Weiter am [Import](https://github.com/radiorabe/raar/commit/ecd8f1b93f84d31ef52d881e465749b62a576823) gearbeitet.
