@@ -5,4 +5,4 @@ active: true
 ---
 
 ### [Thomas Philipona](https://github.com/phil-pona)
-Junittests im [schemaspy](https://github.com/drnoa/schemaspy) gefixed.
+Junittests im [schemaspy](https://github.com/drnoa/schemaspy) gefixed und die Implementation der Relationship Page als Freemarkertemplate gestartet.
