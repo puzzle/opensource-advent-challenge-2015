@@ -1,7 +1,8 @@
 ---
 day: 	21
 title:	Es geht weiter...
-active: false
+active: true
 ---
 
-
+### [Thomas Philipona](https://github.com/phil-pona)
+Junittests im [schemaspy](https://github.com/drnoa/schemaspy) gefixed.
