@@ -20,3 +20,6 @@ Frei nach einer Idee von Daniel Ehrensperger - wieder mit redux, diesmal sollen 
 
 ### [Pascal Simon](https://github.com/psunix)
 [Cryptopus](https://github.com/puzzle/cryptopus): Locale Drop-Down in Footer eingefügt.
+
+### [Peter Mumenthaler](https://github.com/pmumenthaler)
+Weiterentwicklung zu Objektorientertiert. Wieder das Python Know How aufgefrischt. Macht Spass :-). Copy Funktion muss noch erweitert/geflickt werden. Mag nicht mehr, bin zu müde. 
