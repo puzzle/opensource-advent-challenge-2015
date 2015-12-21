@@ -6,3 +6,14 @@ active: true
 
 ### [Thomas Philipona](https://github.com/phil-pona)
 Junittests im [schemaspy](https://github.com/drnoa/schemaspy) gefixed und die Implementation der Relationship Page als Freemarkertemplate gestartet.
+
+### [Max Burri](https://github.com/mburri)
+Der Enthusiasmus für mein [redux-breakout clone](http://mburri.github.io/break-out/dist/index.html) ist etwas erlahmt... ich habe noch ein paar Sachen ergänzt, und man kann jetzt eigentlich spielen. Aber da fehlt noch einiges... vielleicht macht ja mal jemand weiter. Ich habe aber einiges gelernt über redux, vor allem aber über ES2015 und einige mir vorher nicht sehr vertraute javascript (front-end) tools und libraries:
+   - babel: damit man all die fancy ES2015-features schon heute gebrauchen kann.
+   - webpack: next gen module loader und grunt/ gulp Ersatz?
+   - immutable.js: Immutability will erzwungen sein.
+   - mocha/ chai: unit testing in Javascript.
+
+In der Zwischenzeit habe ich ein neues Projekt gestartet: https://github.com/mburri/kicker-planner
+
+Frei nach einer Idee von Daniel Ehrensperger - wieder mit redux, diesmal sollen aber dann auch ein server, websockets und react.js hinzukommen... und wenn alles gut läuft, können wir das vielleicht bei uns intern auf OpenShift deployen und verwenden...  
