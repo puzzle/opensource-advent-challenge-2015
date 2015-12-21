@@ -17,3 +17,6 @@ Der Enthusiasmus für mein [redux-breakout clone](http://mburri.github.io/break-
 In der Zwischenzeit habe ich ein neues Projekt gestartet: https://github.com/mburri/kicker-planner
 
 Frei nach einer Idee von Daniel Ehrensperger - wieder mit redux, diesmal sollen aber dann auch ein server, websockets und react.js hinzukommen... und wenn alles gut läuft, können wir das vielleicht bei uns intern auf OpenShift deployen und verwenden...  
+
+### [Pascal Simon](https://github.com/psunix)
+[Cryptopus](https://github.com/puzzle/cryptopus): Locale Drop-Down in Footer eingefügt.
