@@ -9,3 +9,6 @@ Code Review bei Thömus Contribution durchgeführt und die Exlipse Project und S
 
 ### [Thomas Philipona](https://github.com/phil-pona)
 Im [schemaspy](https://github.com/drnoa/schemaspy) die Implementation der Relationship Page als Freemarkertemplate abgeschlossen und unbenutzer Code gelöscht.
+
+### [Christoph Raaflaub](https://github.com/chrira)
+Für das [Pebble Smartwatch](https://www.pebble.com/) Watchface Projekt [BlueFuturistic](https://github.com/palian/BlueFuturisti) ein Issue erstellt, dass keine License vohanden ist: <https://github.com/palian/BlueFuturistic/issues/3>
