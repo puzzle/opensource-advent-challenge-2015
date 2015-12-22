@@ -1,6 +1,6 @@
 ---
 day: 	22
-title:	Es geht weiter...
+title:	Der kürzeste Tag...
 active: true
 ---
 
