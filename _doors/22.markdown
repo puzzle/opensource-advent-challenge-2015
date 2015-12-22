@@ -1,7 +1,11 @@
 ---
 day: 	22
 title:	Es geht weiter...
-active: false
+active: true
 ---
 
+### [Daniel Binggeli](https://github.com/drnoa)
+Code Review bei Thömus Contribution durchgeführt und die Exlipse Project und Settings Files auf gitignore gesetzt.
 
+### [Thomas Philipona](https://github.com/phil-pona)
+Im [schemaspy](https://github.com/drnoa/schemaspy) die Implementation der Relationship Page als Freemarkertemplate abgeschlossen und unbenutzer Code gelöscht.
