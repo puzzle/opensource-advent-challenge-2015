@@ -21,3 +21,7 @@ Für das [Pebble Smartwatch](https://www.pebble.com/) Watchface Projekt [BlueFut
 
 ### [Peter Mumenthaler](https://github.com/pmumenthaler)
 [Sortmypics:](https://github.com/puzzle/sortmypics) ist nun fully objektorientiert. Dazu den Code einer Diät unterzogen. 
+
+### [Martin Gafner](https://github.com/mgafner)
+heute habe ich auf Sourceforge.net die Features von [Cryptopus](https://sourceforge.net/projects/cryptopus/) ergänzt und das Logo hochgeladen. Danach habe ich begonnen, Cryptopus gemäss Anleitung aus dem README auf meinem Notebook zu installieren. Ziel ist, die Screenshots auf Sourceforge.net zu erneuern. Eventuell gibt es morgen dazu ein Update.
+
