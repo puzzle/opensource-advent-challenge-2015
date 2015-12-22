@@ -12,3 +12,6 @@ Im [schemaspy](https://github.com/drnoa/schemaspy) die Implementation der Relati
 
 ### [Christoph Raaflaub](https://github.com/chrira)
 Für das [Pebble Smartwatch](https://www.pebble.com/) Watchface Projekt [BlueFuturistic](https://github.com/palian/BlueFuturistic) ein Issue erstellt, dass keine License vohanden ist: <https://github.com/palian/BlueFuturistic/issues/3>
+
+### [Pascal Simon](https://github.com/psunix)
+[Cryptopus](https://github.com/puzzle/cryptopus): Heute gibt es ein weiteres Design update.
