@@ -30,3 +30,6 @@ Habe am [Hologram Github Theme](https://github.com/wearecube/hologram-github-the
 
 ### [Pascal Simon](https://github.com/psunix)
 [Cryptopus](https://github.com/puzzle/cryptopus): Heute hat Cryptopus ein neues Logo erhalten.
+
+### [Daniel Tschan](https://github.com/dtschan)
+An der Automatisierung der Installation des OpenShift Enterprise EFK Stacks weitergearbeitet: <https://github.com/puzzle/puppet-openshift3/commits/logging>
