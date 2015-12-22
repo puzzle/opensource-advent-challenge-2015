@@ -15,3 +15,6 @@ Für das [Pebble Smartwatch](https://www.pebble.com/) Watchface Projekt [BlueFut
 
 ### [Pascal Simon](https://github.com/psunix)
 [Cryptopus](https://github.com/puzzle/cryptopus): Heute gibt es ein weiteres Design update.
+
+### [Max Burri](https://github.com/mburri)
+[kicker-planner:](https://github.com/mburri/kicker-planner) Die step-by-step Beschreibung meiner Schritte verbessert, Tests für den redux-store geschrieben und ein einfaches [server-script](https://github.com/mburri/kicker-planner/blob/eeb58686bfd4258546a7714fe1adb3756fd7d7fc/server/index.js) erstellt. Machen tuts eigentlich noch nichts. Die Idee ist, dass der (Websocket) Server für jeden Change im redux State alle verbundenen Clients benachrichtigt, d.h. den neuen State "mitteilt".  
