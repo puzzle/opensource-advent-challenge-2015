@@ -18,3 +18,6 @@ Die Columns Page des [schemaspy](https://github.com/drnoa/schemaspy)s wird nun a
 
 ### [Pascal Zumkehr](https://github.com/codez)
 [RAAR](https://github.com/radiorabe/raar) ist eine Applikation zum Verwalten und Durchstöbern eines Audio Archivs. Weiter am [Import](https://github.com/radiorabe/raar/commit/ecd8f1b93f84d31ef52d881e465749b62a576823) gearbeitet.
+
+### [Daniel Tschan](https://github.com/dtschan)
+OpenShift Enterprise 3.1 enthält nun einen integrierten metrics stack basierend Heapster, Hawkular und Cassandra um Metriken wie CPU- und Speicherverbrauch aller Container aggregrieren und analysieren zu können. Dessen Installation erfordert momentan noch diverse manuelle Schritte. Ich habe heute begonnen diese in unserem OpenShift 3 Puppet Modul zu automatisieren: <https://github.com/puzzle/puppet-openshift3/commits/metrics>
