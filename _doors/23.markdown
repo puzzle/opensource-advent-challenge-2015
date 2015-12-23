@@ -1,7 +1,8 @@
 ---
 day: 	23
 title:	Es geht weiter...
-active: false
+active: true
 ---
 
-
+### [Thomas Philipona](https://github.com/phil-pona)
+Heute wurde [Wildfly 10.0.0CR5](http://wildfly.org/news/2015/12/23/WildFly10-CR5-Released/) released, daher habe ich das [sti-wildfly](https://github.com/openshift/sti-wildfly) Docker Image entsprechend angepasst und als [Pull Request](https://github.com/openshift/sti-wildfly/pull/66) eingegeben.
