@@ -9,3 +9,6 @@ Heute wurde [Wildfly 10.0.0CR5](http://wildfly.org/news/2015/12/23/WildFly10-CR5
 
 ### [Pascal Simon](https://github.com/psunix)
 [Cryptopus](https://github.com/puzzle/cryptopus): Auch am zweit letzten Tag gibt es ein weiteres Update für Cryptopus. Neu ist es nicht mehr möglich bei einem bestehenden Team Root oder die Admins zu entfernen oder hinzuzufügen (private, noroot).
+
+### [Max Burri](https://github.com/mburri)
+[kicker-planner:](https://github.com/mburri/kicker-planner) Baby Steps in Sachen express und socket.io. Wenn sich ein client verbindet, wird ihm über eine websocket-connection der state aus dem redux store übermittelt. 
