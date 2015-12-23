@@ -12,3 +12,6 @@ Heute wurde [Wildfly 10.0.0CR5](http://wildfly.org/news/2015/12/23/WildFly10-CR5
 
 ### [Max Burri](https://github.com/mburri)
 [kicker-planner:](https://github.com/mburri/kicker-planner) Baby Steps in Sachen express und socket.io. Wenn sich ein client verbindet, wird ihm über eine websocket-connection der state aus dem redux store übermittelt. 
+
+### [Daniel Binggeli](https://github.com/drnoa)
+Im [schemaspy](https://github.com/drnoa/schemaspy) eine aktuelle JQuery Version in die Sourcen und den JQuery Tablesorter integriert. Offen ist noch die Tabellensortierfunktion zu integrieren. Das folgt noch.
