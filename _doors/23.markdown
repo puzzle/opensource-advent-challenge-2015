@@ -1,8 +1,11 @@
 ---
 day: 	23
-title:	Es geht weiter...
+title:	... und schon bald gibts ne Flasche Wein :)
 active: true
 ---
 
 ### [Thomas Philipona](https://github.com/phil-pona)
 Heute wurde [Wildfly 10.0.0CR5](http://wildfly.org/news/2015/12/23/WildFly10-CR5-Released/) released, daher habe ich das [sti-wildfly](https://github.com/openshift/sti-wildfly) Docker Image entsprechend angepasst und als [Pull Request](https://github.com/openshift/sti-wildfly/pull/66) eingegeben.
+
+### [Pascal Simon](https://github.com/psunix)
+[Cryptopus](https://github.com/puzzle/cryptopus): Auch am zweit letzten Tag gibt es ein weiteres Update für Cryptopus. Neu ist es nicht mehr möglich bei einem bestehenden Team Root oder die Admins zu entfernen oder hinzuzufügen (private, noroot).
