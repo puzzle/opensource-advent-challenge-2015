@@ -18,3 +18,6 @@ Einen kleinen Issue in der Hamcrest Matcher Library (welche auch in JUnit verwen
 
 ### [Thomas Philipona](https://github.com/phil-pona)
 In der Columnspage des [schemaspy](https://github.com/drnoa/schemaspy)s den Java Script Tablesorter eingebaut und unbenutzer Code gelöscht. Zusätzlich wurde mein [Pull Request](https://github.com/openshift/sti-wildfly/pull/66) von gestern gemerged und ist im [Docker Image](https://hub.docker.com/r/openshift/wildfly-100-centos7/) ab sofort auf Docker Hub verfügbar.
+
+### [Philipp Grogg](https://github.com/gro-gg)
+Ich habe in den vergangenen Tagen das Tool [pps](https://github.com/gro-gg/pps) erstellt, mit dem man in der Shell einfach zwischen verschiedenen Projekten wechseln kann. Heute habe ich noch das README erstellt und auf Github gestellt.
