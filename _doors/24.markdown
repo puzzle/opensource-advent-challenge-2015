@@ -6,3 +6,6 @@ active: true
 
 ### [Max Burri](https://github.com/mburri)
 [kicker-planner:](https://github.com/mburri/kicker-planner) Clients können jetzt einen Match erstellen und alle verbundenen Clients erhalten den neuen State zum darstellen.
+
+### [Daniel Binggeli](https://github.com/drnoa)
+Im [schemaspy](https://github.com/drnoa/schemaspy) den JQuery Tablesorter in der Constraints Seite integriert. Es ist jetzt möglich die Übersicht der Tabellencontstrainst über die Tabellenüberschriften zu sortieren.
