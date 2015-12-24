@@ -9,3 +9,6 @@ active: true
 
 ### [Daniel Binggeli](https://github.com/drnoa)
 Im [schemaspy](https://github.com/drnoa/schemaspy) den JQuery Tablesorter in der Constraints Seite integriert. Es ist jetzt möglich die Übersicht der Tabellencontstrainst über die Tabellenüberschriften zu sortieren.
+
+### [Philipp Matti](https://github.com/phil-matti/vagrant)
+Stand-alone Puppet mit Hiera (deployed apache-forge module for testing) per Vagrant.
