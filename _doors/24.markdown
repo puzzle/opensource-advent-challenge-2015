@@ -1,7 +1,8 @@
 ---
 day: 	24
-title:	Es geht weiter...
-active: false
+title:	es war ein Vergnügen...
+active: true
 ---
 
-
+### [Max Burri](https://github.com/mburri)
+[kicker-planner:](https://github.com/mburri/kicker-planner) Clients können jetzt einen Match erstellen und alle verbundenen Clients erhalten den neuen State zum darstellen.
