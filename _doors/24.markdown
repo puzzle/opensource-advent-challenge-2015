@@ -16,3 +16,5 @@ Stand-alone Puppet mit Hiera (deployed apache-forge module for testing) per Vagr
 ### [Simon Fankhauser](https://github.com/plow)
 Einen kleinen Issue in der Hamcrest Matcher Library (welche auch in JUnit verwendet wird) gefixt und einen entsprechenden [Pull Request](https://github.com/hamcrest/JavaHamcrest/pull/132) erstellt.
 
+### [Thomas Philipona](https://github.com/phil-pona)
+In der Columnspage des [schemaspy](https://github.com/drnoa/schemaspy)s den Java Script Tablesorter eingebaut und unbenutzer Code gelöscht. Zusätzlich wurde mein [Pull Request](https://github.com/openshift/sti-wildfly/pull/66) von gestern gemerged und ist im [Docker Image](https://hub.docker.com/r/openshift/wildfly-100-centos7/) ab sofort auf Docker Hub verfügbar.
