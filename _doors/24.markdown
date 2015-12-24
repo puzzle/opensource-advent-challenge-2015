@@ -21,3 +21,6 @@ In der Columnspage des [schemaspy](https://github.com/drnoa/schemaspy)s den Java
 
 ### [Philipp Grogg](https://github.com/gro-gg)
 Ich habe in den vergangenen Tagen das Tool [pps](https://github.com/gro-gg/pps) erstellt, mit dem man in der Shell einfach zwischen verschiedenen Projekten wechseln kann. Heute habe ich noch das README erstellt und auf Github gestellt.
+
+### [Pascal Simon](https://github.com/psunix)
+[Cryptopus](https://github.com/puzzle/cryptopus): Mein 24. Commit Tag liefert heute zwei Bugfixes für Cryptopus. Cheers.
