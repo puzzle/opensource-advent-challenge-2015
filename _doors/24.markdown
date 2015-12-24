@@ -12,3 +12,7 @@ Im [schemaspy](https://github.com/drnoa/schemaspy) den JQuery Tablesorter in der
 
 ### [Philipp Matti](https://github.com/phil-matti/vagrant)
 Stand-alone Puppet mit Hiera (deployed apache-forge module for testing) per Vagrant.
+
+### [Simon Fankhauser](https://github.com/plow)
+Einen kleinen Issue in der Hamcrest Matcher Library (welche auch in JUnit verwendet wird) gefixt und einen entsprechenden [Pull Request](https://github.com/hamcrest/JavaHamcrest/pull/132) erstellt.
+
