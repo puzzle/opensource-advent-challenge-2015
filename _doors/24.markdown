@@ -24,3 +24,6 @@ Ich habe in den vergangenen Tagen das Tool [pps](https://github.com/gro-gg/pps) 
 
 ### [Pascal Simon](https://github.com/psunix)
 [Cryptopus](https://github.com/puzzle/cryptopus): Mein 24. Commit Tag liefert heute zwei Bugfixes für Cryptopus. Cheers.
+
+### [Simon Fankhauser](https://github.com/plow)
+In der Overtime (es ist bereits der 25.12.) noch schnell die Basis für meine neue, zentralisierte [Cheat Sheet Sammlung](https://github.com/plow/cheatsheets) gelegt. Repo erstellt und erste Markdown-Files gepushed.
