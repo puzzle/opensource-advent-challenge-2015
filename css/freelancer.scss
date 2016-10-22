@@ -1,6 +1,10 @@
-@import "variables.less";
-@import "mixins.less";
-@import "contributions.less";
+---
+---
+
+
+$brand-primary: #1E5A96;
+$brand-success: #69B978;
+$gray-lighter: lighten(#000, 93.5%);
 
 body {
     overflow-x: hidden;
@@ -8,10 +12,6 @@ body {
 
 p {
     font-size: 20px;
-}
-
-p.small {
-    font-size: 16px;
 }
 
 a,
@@ -55,7 +55,7 @@ hr.star-light {
 }
 
 hr.star-light:after {
-    background-color: @brand-success;
+    background-color: $brand-success;
     color: white;
 }
 
@@ -74,15 +74,16 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    background: @brand-success;
+    background: $brand-success;
     color: white;
     .container {
-        padding-top: 100px;
+        padding-top: 110px;
         padding-bottom: 50px;
     }
     img {
         display: block;
         margin: 0 auto 20px;
+        width: 250px;
     }
     .intro-text {
         .name {
@@ -99,12 +100,38 @@ header {
     }
 }
 
+.contributions {
+    background-color: #69B978;
+    color: white;
+    padding: 2em;
+}
+
+.contributions a {
+    color: white;
+    text-decoration: underline;
+}
+
+.active-tool:before {
+    content: "";
+    width: 0;
+    height: 0;
+    border-left: 3em solid transparent;
+    border-right: 3em solid transparent;
+
+    border-bottom: 3em solid #69B978;
+    position: absolute;
+    bottom: -3em;
+    left: calc(50% - 3em);
+}
+
+@media (min-width: 767px) {
+    .active-tool:before {
+        bottom: -2em;
+    }
+}
+
 @media(min-width:768px) {
     header {
-        .container {
-            padding-top: 200px;
-            padding-bottom: 100px;
-        }
         .intro-text {
             .name {
                 font-size: 4.75em;
@@ -115,21 +142,15 @@ header {
         }
     }
     .navbar-fixed-top {
-        padding: 25px 0;
+        padding: 10px 0;
         -webkit-transition: padding 0.3s;
         -moz-transition: padding 0.3s;
         transition: padding 0.3s;
         .navbar-brand {
-            font-size: 2em;
+            font-size: 1.5em;
             -webkit-transition: all 0.3s;
             -moz-transition: all 0.3s;
             transition: all 0.3s;
-        }
-    }
-    .navbar-fixed-top.navbar-shrink {
-        padding: 10px 0;
-        .navbar-brand {
-            font-size: 1.5em;
         }
     }
 }
@@ -165,7 +186,7 @@ section {
 }
 
 section.success {
-    background: @brand-success;
+    background: $brand-success;
     color: white;
 
     a,
@@ -183,9 +204,6 @@ section.success {
     section {
         padding: 75px 0;
     }
-    section.first {
-        padding-top: 75px;
-    }
 }
 #portfolio {
     .portfolio-item {
@@ -197,7 +215,7 @@ section.success {
             max-width: 400px;
             margin: 0 auto;
             .caption {
-                background: fade(@brand-success, 90%);
+                background: transparentize($brand-success, 0.1);
                 position: absolute;
                 width: 100%;
                 height: 100%;
@@ -218,10 +236,6 @@ section.success {
                     color: white;
                     i {
                         margin-top: -12px;
-                    }
-                    h3,
-                    h4 {
-                        margin: 0;
                     }
                 }
             }
@@ -256,7 +270,7 @@ section.success {
             max-width: 400px;
             margin: 0 auto;
             .caption {
-                background: fade(@brand-success, 90%);
+                background: transparentize($brand-success, 0.1);
                 position: absolute;
                 width: 100%;
                 height: 100%;
@@ -271,7 +285,6 @@ section.success {
                     position: absolute;
                     width: 100%;
                     height: 20px;
-                    font-size: 20px;
                     text-align: center;
                     top: 50%;
                     margin-top: -12px;
@@ -325,67 +338,10 @@ section.success {
     &:focus,
     &:active,
     &.active {
-        color: @brand-success;
+        color: $brand-success;
         background: white;
         border: solid 2px white;
     }
-}
-
-.floating-label-form-group {
-    position: relative;
-    margin-bottom: 0;
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid @gray-lighter;
-    input,
-    textarea {
-        z-index: 1;
-        position: relative;
-        padding-right: 0;
-        padding-left: 0;
-        border: none;
-        border-radius: 0;
-        font-size: 1.5em;
-        background: none;
-        box-shadow: none !important;
-        resize: none;
-    }
-    label {
-        display: block;
-        z-index: 0;
-        position: relative;
-        top: 2em;
-        margin: 0;
-        font-size: 0.85em;
-        line-height: 1.764705882em;
-        vertical-align: middle;
-        vertical-align: baseline;
-        opacity: 0;
-        -webkit-transition: top 0.3s ease,opacity 0.3s ease;
-        -moz-transition: top 0.3s ease,opacity 0.3s ease;
-        -ms-transition: top 0.3s ease,opacity 0.3s ease;
-        transition: top 0.3s ease,opacity 0.3s ease;
-    }
-    &::not(:first-child) {
-        padding-left: 14px;
-        border-left: 1px solid @gray-lighter;
-    }
-}
-
-.floating-label-form-group-with-value {
-    label {
-        top: 0;
-        opacity: 1;
-    }
-}
-
-.floating-label-form-group-with-focus {
-    label {
-        color: @brand-success;
-    }
-}
-
-form .row:first-child .floating-label-form-group {
-    border-top: 1px solid @gray-lighter;
 }
 
 footer {
@@ -395,14 +351,14 @@ footer {
     }
     .footer-above {
         padding-top: 50px;
-        background-color: @brand-primary;
+        background-color: $brand-primary;
     }
     .footer-col {
         margin-bottom: 50px;
     }
     .footer-below {
         padding: 25px 0;
-        background-color: darken(@brand-primary, 5%);
+        background-color: darken($brand-primary, 5%);
     }
 }
 

@@ -6,19 +6,84 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-
-# Build settings
-markdown: kramdown
+logo: https://brand.puzzle.ch/images/logo_stamp_bg.svg
+title: Thömus Open Source Advents Challenge 2015
+description: Wer shafft es im Advent jeden Tag einen Beitrag zu einem Open Source Projekt zu leisten?
 
 collections:
 - doors
+
+img_base_url: https://www.puzzle.ch/wp-content/uploads/
+contributors:
+    - name: Thomas Philipona
+      github: phil-pona
+      img: 2015/07/Philipona-Thomas-400x300.jpg
+    - name: Martin Gafner
+      github: mgafner
+      img: 2015/07/Gafner-Martin-400x300.jpg
+    - name: Roland Studer
+      github: RolandStuder
+      img: 2015/08/Studer-Roland-400x300.jpg
+    - name: Daniel Binggeli
+      github: drnoa
+      img: 2015/07/Binggeli-Daniel-400x300.jpg
+    - name: Daniel Tschan
+      github: dtschan
+      img: 2015/07/Tschan-Daniel-400x300.jpg
+    - name: Peter Mumenthaler
+      github: pmumenthaler
+      img: 2015/07/Mumenthaler-Peter-400x300.jpg
+    - name: Pascal Zumkehr
+      github: codez
+      img: 2015/10/Zumkehr-Pascal-400x300.jpg
+    - name: Pascal Simon
+      github: psunix
+      img: 2015/07/Simon-Pascal-400x300.jpg
+    - name: Sandro Beffa
+      github: sandroBeffa
+      img: 2015/07/Beffa-Sandro-400x300.jpg
+    - name: Christoph Raaflaub
+      github: chrira
+      img: 2015/07/Raaflaub-400x300.jpg
+    - name: Anselm Strauss
+      github: amsibamsi
+      img: 2015/07/Strauss-Anselm-400x300.jpg
+    - name: Philipp Grogg
+      github: gro-gg
+      img: 2015/08/Grogg-Philipp-400x300.jpg
+    - name: Max Burri
+      github: mburri
+      img: 2015/07/Burri-Max-400x300.jpg
+    - name: Simon Fankhauser
+      github: plow
+      img: 2015/07/Fankhauser-Simon-400x300.jpg
+    - name: Mathis Hofer
+      github: hupf
+      img: 2015/10/Hofer-Mathis-400x300.jpg
+    - name: Philipp Matti
+      github: phil-matti
+      img: 2015/07/Matti-Philipp-400x300.jpg
+    - name: Oliver Gugger
+      github: guggero
+      img: 2015/10/Gugger_Oliver-400x300.jpg
+    - name: Lorenz Bischof
+      github: lbischof
+      img: 2015/07/Bischof-Lorenz-400x300.jpg
+    - name: Jürg Gerber
+      github: mamba
+      img: 2015/07/Gerber-J%C3%BCrg-400x300.jpg
+    - name: Philipp Gassmann
+      github: pgassmann
+      img: 2015/08/Gassmann-Philipp-400x300.jpg
+    - name: Tim Herren
+      github: nerrehmit
+      img: 2015/08/Herren-Tim-400x300.jpg
+    - name: Lara Eggimann
+      github: leggimann
+      img: 2015/07/Eggimann-Lara-400x300.jpg
+    - name: Janiss Binder
+      github: janissbinder
+      img: 2015/07/Binder-Jannis-400x300.jpg
+    - name: René Moser
+      github: resmo
+      img: https://avatars1.githubusercontent.com/u/23809?v=3&amp;s=460
